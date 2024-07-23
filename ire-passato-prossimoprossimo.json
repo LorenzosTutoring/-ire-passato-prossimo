@@ -1,0 +1,3511 @@
+[
+    {
+        "id": 1,
+        "prompt": "Io {input} (dormire) tutta la notte.",
+        "answer": "ho dormito",
+        "translation": "I slept all night.",
+        "audio": "1_Io_ho_dormito_tutta_la_notte.mp3"
+    },
+    {
+        "id": 2,
+        "prompt": "Noi {input} (partire) presto ieri.",
+        "answer": "siamo partiti",
+        "translation": "We left early yesterday.",
+        "audio": "2_Noi_siamo_partiti_presto_ieri.mp3"
+    },
+    {
+        "id": 3,
+        "prompt": "Lei {input} (capire) tutto velocemente.",
+        "answer": "ha capito",
+        "translation": "She understood everything quickly.",
+        "audio": "3_Lei_ha_capito_tutto_velocemente.mp3"
+    },
+    {
+        "id": 4,
+        "prompt": "Tu {input} (sentire) un rumore strano.",
+        "answer": "hai sentito",
+        "translation": "You heard a strange noise.",
+        "audio": "4_Tu_hai_sentito_un_rumore_strano.mp3"
+    },
+    {
+        "id": 5,
+        "prompt": "Loro {input} (scoprire) un nuovo ristorante.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new restaurant.",
+        "audio": "5_Loro_hanno_scoperto_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 6,
+        "prompt": "Io {input} (finire) il libro.",
+        "answer": "ho finito",
+        "translation": "I finished the book.",
+        "audio": "6_Io_ho_finito_il_libro.mp3"
+    },
+    {
+        "id": 7,
+        "prompt": "Noi {input} (aprire) la porta.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the door.",
+        "audio": "7_Noi_abbiamo_aperto_la_porta.mp3"
+    },
+    {
+        "id": 8,
+        "prompt": "Lei {input} (offrire) il suo aiuto.",
+        "answer": "ha offerto",
+        "translation": "She offered her help.",
+        "audio": "8_Lei_ha_offerto_il_suo_aiuto.mp3"
+    },
+    {
+        "id": 9,
+        "prompt": "Tu {input} (seguire) il corso.",
+        "answer": "hai seguito",
+        "translation": "You followed the course.",
+        "audio": "9_Tu_hai_seguito_il_corso.mp3"
+    },
+    {
+        "id": 10,
+        "prompt": "Loro {input} (pulire) la casa.",
+        "answer": "hanno pulito",
+        "translation": "They cleaned the house.",
+        "audio": "10_Loro_hanno_pulito_la_casa.mp3"
+    },
+    {
+        "id": 11,
+        "prompt": "Io {input} (divertirsi) molto alla festa.",
+        "answer": "mi sono divertito",
+        "translation": "I had a lot of fun at the party.",
+        "audio": "11_Io_mi_sono_divertito_molto_alla_festa.mp3"
+    },
+    {
+        "id": 12,
+        "prompt": "Loro {input} (capire) l'importanza del progetto.",
+        "answer": "hanno capito",
+        "translation": "They understood the importance of the project.",
+        "audio": "12_Loro_hanno_capito_l_importanza_del_progetto.mp3"
+    },
+    {
+        "id": 13,
+        "prompt": "Noi {input} (costruire) una nuova casa.",
+        "answer": "abbiamo costruito",
+        "translation": "We built a new house.",
+        "audio": "13_Noi_abbiamo_costruito_una_nuova_casa.mp3"
+    },
+    {
+        "id": 14,
+        "prompt": "Tu {input} (preferire) il film.",
+        "answer": "hai preferito",
+        "translation": "You preferred the movie.",
+        "audio": "14_Tu_hai_preferito_il_film.mp3"
+    },
+    {
+        "id": 15,
+        "prompt": "Io {input} (spedire) la lettera.",
+        "answer": "ho spedito",
+        "translation": "I sent the letter.",
+        "audio": "15_Io_ho_spedito_la_lettera.mp3"
+    },
+    {
+        "id": 16,
+        "prompt": "Lei {input} (soffrire) molto.",
+        "answer": "ha sofferto",
+        "translation": "She suffered a lot.",
+        "audio": "16_Lei_ha_sofferto_molto.mp3"
+    },
+    {
+        "id": 17,
+        "prompt": "Loro {input} (offrire) un caffe.",
+        "answer": "hanno offerto",
+        "translation": "They offered a coffee.",
+        "audio": "17_Loro_hanno_offerto_un_caffe.mp3"
+    },
+    {
+        "id": 18,
+        "prompt": "Noi {input} (discutere) a lungo.",
+        "answer": "abbiamo discusso",
+        "translation": "We discussed for a long time.",
+        "audio": "18_Noi_abbiamo_discusso_a_lungo.mp3"
+    },
+    {
+        "id": 19,
+        "prompt": "Tu {input} (coprire) la pentola.",
+        "answer": "hai coperto",
+        "translation": "You covered the pot.",
+        "audio": "19_Tu_hai_coperto_la_pentola.mp3"
+    },
+    {
+        "id": 20,
+        "prompt": "Io {input} (offrire) un regalo.",
+        "answer": "ho offerto",
+        "translation": "I offered a gift.",
+        "audio": "20_Io_ho_offerto_un_regalo.mp3"
+    },
+    {
+        "id": 21,
+        "prompt": "Lei {input} (partire) alle sei.",
+        "answer": "e partita",
+        "translation": "She left at six.",
+        "audio": "21_Lei_e_partita_alle_sei.mp3"
+    },
+    {
+        "id": 22,
+        "prompt": "Loro {input} (scoprire) un nuovo libro.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new book.",
+        "audio": "22_Loro_hanno_scoperto_un_nuovo_libro.mp3"
+    },
+    {
+        "id": 23,
+        "prompt": "Io {input} (finire) il lavoro.",
+        "answer": "ho finito",
+        "translation": "I finished the work.",
+        "audio": "23_Io_ho_finito_il_lavoro.mp3"
+    },
+    {
+        "id": 24,
+        "prompt": "Tu {input} (sentire) la musica.",
+        "answer": "hai sentito",
+        "translation": "You heard the music.",
+        "audio": "24_Tu_hai_sentito_la_musica.mp3"
+    },
+    {
+        "id": 25,
+        "prompt": "Noi {input} (coprire) la piscina.",
+        "answer": "abbiamo coperto",
+        "translation": "We covered the pool.",
+        "audio": "25_Noi_abbiamo_coperto_la_piscina.mp3"
+    },
+    {
+        "id": 26,
+        "prompt": "Lei {input} (preferire) il vino rosso.",
+        "answer": "ha preferito",
+        "translation": "She preferred red wine.",
+        "audio": "26_Lei_ha_preferito_il_vino_rosso.mp3"
+    },
+    {
+        "id": 27,
+        "prompt": "Loro {input} (offrire) aiuto.",
+        "answer": "hanno offerto",
+        "translation": "They offered help.",
+        "audio": "27_Loro_hanno_offerto_aiuto.mp3"
+    },
+    {
+        "id": 28,
+        "prompt": "Io {input} (divertirsi) alla festa.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the party.",
+        "audio": "28_Io_mi_sono_divertito_alla_festa.mp3"
+    },
+    {
+        "id": 29,
+        "prompt": "Tu {input} (scoprire) la verita.",
+        "answer": "hai scoperto",
+        "translation": "You discovered the truth.",
+        "audio": "29_Tu_hai_scoperto_la_verita.mp3"
+    },
+    {
+        "id": 30,
+        "prompt": "Lei {input} (finire) il compito.",
+        "answer": "ha finito",
+        "translation": "She finished the task.",
+        "audio": "30_Lei_ha_finito_il_compito.mp3"
+    },
+    {
+        "id": 31,
+        "prompt": "Noi {input} (aprire) una finestra.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a window.",
+        "audio": "31_Noi_abbiamo_aperto_una_finestra.mp3"
+    },
+    {
+        "id": 32,
+        "prompt": "Tu {input} (sentire) il campanello.",
+        "answer": "hai sentito",
+        "translation": "You heard the doorbell.",
+        "audio": "32_Tu_hai_sentito_il_campanello.mp3"
+    },
+    {
+        "id": 33,
+        "prompt": "Loro {input} (scoprire) il segreto.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered the secret.",
+        "audio": "33_Loro_hanno_scoperto_il_segreto.mp3"
+    },
+    {
+        "id": 34,
+        "prompt": "Io {input} (finire) il disegno.",
+        "answer": "ho finito",
+        "translation": "I finished the drawing.",
+        "audio": "34_Io_ho_finito_il_disegno.mp3"
+    },
+    {
+        "id": 35,
+        "prompt": "Tu {input} (offrire) una bevanda.",
+        "answer": "hai offerto",
+        "translation": "You offered a drink.",
+        "audio": "35_Tu_hai_offerto_una_bevanda.mp3"
+    },
+    {
+        "id": 36,
+        "prompt": "Lei {input} (partire) per la Francia.",
+        "answer": "e partita",
+        "translation": "She left for France.",
+        "audio": "36_Lei_e_partita_per_la_Francia.mp3"
+    },
+    {
+        "id": 37,
+        "prompt": "Noi {input} (scoprire) una soluzione.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a solution.",
+        "audio": "37_Noi_abbiamo_scoperto_una_soluzione.mp3"
+    },
+    {
+        "id": 38,
+        "prompt": "Loro {input} (finire) il film.",
+        "answer": "hanno finito",
+        "translation": "They finished the movie.",
+        "audio": "38_Loro_hanno_finito_il_film.mp3"
+    },
+    {
+        "id": 39,
+        "prompt": "Io {input} (divertirsi) al concerto.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the concert.",
+        "audio": "39_Io_mi_sono_divertito_al_concerto.mp3"
+    },
+    {
+        "id": 40,
+        "prompt": "Tu {input} (scoprire) un errore.",
+        "answer": "hai scoperto",
+        "translation": "You discovered a mistake.",
+        "audio": "40_Tu_hai_scoperto_un_errore.mp3"
+    },
+    {
+        "id": 41,
+        "prompt": "Lei {input} (finire) il capitolo.",
+        "answer": "ha finito",
+        "translation": "She finished the chapter.",
+        "audio": "41_Lei_ha_finito_il_capitolo.mp3"
+    },
+    {
+        "id": 42,
+        "prompt": "Noi {input} (aprire) il regalo.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the gift.",
+        "audio": "42_Noi_abbiamo_aperto_il_regalo.mp3"
+    },
+    {
+        "id": 43,
+        "prompt": "Loro {input} (offrire) la loro casa.",
+        "answer": "hanno offerto",
+        "translation": "They offered their house.",
+        "audio": "43_Loro_hanno_offerto_la_loro_casa.mp3"
+    },
+    {
+        "id": 44,
+        "prompt": "Io {input} (coprire) la macchina.",
+        "answer": "ho coperto",
+        "translation": "I covered the car.",
+        "audio": "44_Io_ho_coperto_la_macchina.mp3"
+    },
+    {
+        "id": 45,
+        "prompt": "Tu {input} (preferire) il colore blu.",
+        "answer": "hai preferito",
+        "translation": "You preferred the blue color.",
+        "audio": "45_Tu_hai_preferito_il_colore_blu.mp3"
+    },
+    {
+        "id": 46,
+        "prompt": "Lei {input} (scoprire) un tesoro.",
+        "answer": "ha scoperto",
+        "translation": "She discovered a treasure.",
+        "audio": "46_Lei_ha_scoperto_un_tesoro.mp3"
+    },
+    {
+        "id": 47,
+        "prompt": "Loro {input} (partire) stamattina.",
+        "answer": "sono partiti",
+        "translation": "They left this morning.",
+        "audio": "47_Loro_sono_partiti_stamattina.mp3"
+    },
+    {
+        "id": 48,
+        "prompt": "Io {input} (finire) il puzzle.",
+        "answer": "ho finito",
+        "translation": "I finished the puzzle.",
+        "audio": "48_Io_ho_finito_il_puzzle.mp3"
+    },
+    {
+        "id": 49,
+        "prompt": "Tu {input} (divertirsi) in vacanza.",
+        "answer": "ti sei divertito",
+        "translation": "You had fun on vacation.",
+        "audio": "49_Tu_ti_sei_divertito_in_vacanza.mp3"
+    },
+    {
+        "id": 50,
+        "prompt": "Lei {input} (offrire) un passaggio.",
+        "answer": "ha offerto",
+        "translation": "She offered a ride.",
+        "audio": "50_Lei_ha_offerto_un_passaggio.mp3"
+    },
+
+    {
+        "id": 51,
+        "prompt": "Loro {input} (scoprire) una nuova tecnica.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new technique.",
+        "audio": "51_Loro_hanno_scoperto_una_nuova_tecnica.mp3"
+    },
+    {
+        "id": 52,
+        "prompt": "Io {input} (finire) la relazione.",
+        "answer": "ho finito",
+        "translation": "I finished the report.",
+        "audio": "52_Io_ho_finito_la_relazione.mp3"
+    },
+    {
+        "id": 53,
+        "prompt": "Tu {input} (aprire) il negozio.",
+        "answer": "hai aperto",
+        "translation": "You opened the store.",
+        "audio": "53_Tu_hai_aperto_il_negozio.mp3"
+    },
+    {
+        "id": 54,
+        "prompt": "Lei {input} (offrire) un'opportunita.",
+        "answer": "ha offerto",
+        "translation": "She offered an opportunity.",
+        "audio": "54_Lei_ha_offerto_un_opportunita.mp3"
+    },
+    {
+        "id": 55,
+        "prompt": "Noi {input} (scoprire) una nuova ricetta.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new recipe.",
+        "audio": "55_Noi_abbiamo_scoperto_una_nuova_ricetta.mp3"
+    },
+    {
+        "id": 56,
+        "prompt": "Loro {input} (partire) per le vacanze.",
+        "answer": "sono partiti",
+        "translation": "They left for vacation.",
+        "audio": "56_Loro_sono_partiti_per_le_vacanze.mp3"
+    },
+    {
+        "id": 57,
+        "prompt": "Io {input} (finire) di leggere il libro.",
+        "answer": "ho finito",
+        "translation": "I finished reading the book.",
+        "audio": "57_Io_ho_finito_di_leggere_il_libro.mp3"
+    },
+    {
+        "id": 58,
+        "prompt": "Tu {input} (offrire) il tuo aiuto.",
+        "answer": "hai offerto",
+        "translation": "You offered your help.",
+        "audio": "58_Tu_hai_offerto_il_tuo_aiuto.mp3"
+    },
+    {
+        "id": 59,
+        "prompt": "Lei {input} (divertirsi) molto al parco.",
+        "answer": "si e divertita",
+        "translation": "She had a lot of fun at the park.",
+        "audio": "59_Lei_si_e_divertita_molto_al_parco.mp3"
+    },
+    {
+        "id": 60,
+        "prompt": "Noi {input} (aprire) un nuovo capitolo.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new chapter.",
+        "audio": "60_Noi_abbiamo_aperto_un_nuovo_capitolo.mp3"
+    },
+    {
+        "id": 61,
+        "prompt": "Loro {input} (scoprire) un errore.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a mistake.",
+        "audio": "61_Loro_hanno_scoperto_un_errore.mp3"
+    },
+    {
+        "id": 62,
+        "prompt": "Io {input} (preferire) il mare alla montagna.",
+        "answer": "ho preferito",
+        "translation": "I preferred the sea to the mountains.",
+        "audio": "62_Io_ho_preferito_il_mare_alla_montagna.mp3"
+    },
+    {
+        "id": 63,
+        "prompt": "Tu {input} (finire) il progetto.",
+        "answer": "hai finito",
+        "translation": "You finished the project.",
+        "audio": "63_Tu_hai_finito_il_progetto.mp3"
+    },
+    {
+        "id": 64,
+        "prompt": "Lei {input} (partire) senza dire nulla.",
+        "answer": "e partita",
+        "translation": "She left without saying anything.",
+        "audio": "64_Lei_e_partita_senza_dire_nulla.mp3"
+    },
+    {
+        "id": 65,
+        "prompt": "Noi {input} (scoprire) un nuovo pianeta.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new planet.",
+        "audio": "65_Noi_abbiamo_scoperto_un_nuovo_pianeta.mp3"
+    },
+    {
+        "id": 66,
+        "prompt": "Loro {input} (finire) la maratona.",
+        "answer": "hanno finito",
+        "translation": "They finished the marathon.",
+        "audio": "66_Loro_hanno_finito_la_maratona.mp3"
+    },
+    {
+        "id": 67,
+        "prompt": "Io {input} (divertirsi) molto al mare.",
+        "answer": "mi sono divertito",
+        "translation": "I had a lot of fun at the sea.",
+        "audio": "67_Io_mi_sono_divertito_molto_al_mare.mp3"
+    },
+    {
+        "id": 68,
+        "prompt": "Tu {input} (aprire) una nuova attivita.",
+        "answer": "hai aperto",
+        "translation": "You opened a new business.",
+        "audio": "68_Tu_hai_aperto_una_nuova_attivita.mp3"
+    },
+    {
+        "id": 69,
+        "prompt": "Lei {input} (preferire) il gelato alla torta.",
+        "answer": "ha preferito",
+        "translation": "She preferred ice cream to cake.",
+        "audio": "69_Lei_ha_preferito_il_gelato_alla_torta.mp3"
+    },
+    {
+        "id": 70,
+        "prompt": "Noi {input} (offrire) un regalo.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a gift.",
+        "audio": "70_Noi_abbiamo_offerto_un_regalo.mp3"
+    },
+    {
+        "id": 71,
+        "prompt": "Loro {input} (scoprire) un tesoro nascosto.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a hidden treasure.",
+        "audio": "71_Loro_hanno_scoperto_un_tesoro_nascosto.mp3"
+    },
+    {
+        "id": 72,
+        "prompt": "Io {input} (finire) di mangiare.",
+        "answer": "ho finito",
+        "translation": "I finished eating.",
+        "audio": "72_Io_ho_finito_di_mangiare.mp3"
+    },
+    {
+        "id": 73,
+        "prompt": "Tu {input} (partire) per un'avventura.",
+        "answer": "sei partito",
+        "translation": "You left for an adventure.",
+        "audio": "73_Tu_sei_partito_per_un_avventura.mp3"
+    },
+    {
+        "id": 74,
+        "prompt": "Lei {input} (aprire) un ristorante.",
+        "answer": "ha aperto",
+        "translation": "She opened a restaurant.",
+        "audio": "74_Lei_ha_aperto_un_ristorante.mp3"
+    },
+    {
+        "id": 75,
+        "prompt": "Noi {input} (preferire) stare a casa.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred to stay at home.",
+        "audio": "75_Noi_abbiamo_preferito_stare_a_casa.mp3"
+    },
+    {
+        "id": 76,
+        "prompt": "Loro {input} (offrire) un tour guidato.",
+        "answer": "hanno offerto",
+        "translation": "They offered a guided tour.",
+        "audio": "76_Loro_hanno_offerto_un_tour_guidato.mp3"
+    },
+    {
+        "id": 77,
+        "prompt": "Io {input} (scoprire) una passione per la pittura.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a passion for painting.",
+        "audio": "77_Io_ho_scoperto_una_passione_per_la_pittura.mp3"
+    },
+    {
+        "id": 78,
+        "prompt": "Tu {input} (finire) di lavorare tardi.",
+        "answer": "hai finito",
+        "translation": "You finished working late.",
+        "audio": "78_Tu_hai_finito_di_lavorare_tardi.mp3"
+    },
+    {
+        "id": 79,
+        "prompt": "Lei {input} (partire) di mattina.",
+        "answer": "e partita",
+        "translation": "She left in the morning.",
+        "audio": "79_Lei_e_partita_di_mattina.mp3"
+    },
+    {
+        "id": 80,
+        "prompt": "Noi {input} (aprire) il cancello.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the gate.",
+        "audio": "80_Noi_abbiamo_aperto_il_cancello.mp3"
+    },
+    {
+        "id": 81,
+        "prompt": "Loro {input} (preferire) la pizza.",
+        "answer": "hanno preferito",
+        "translation": "They preferred pizza.",
+        "audio": "81_Loro_hanno_preferito_la_pizza.mp3"
+    },
+    {
+        "id": 82,
+        "prompt": "Io {input} (divertirsi) con gli amici.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun with friends.",
+        "audio": "82_Io_mi_sono_divertito_con_gli_amici.mp3"
+    },
+    {
+        "id": 83,
+        "prompt": "Tu {input} (offrire) un caffe.",
+        "answer": "hai offerto",
+        "translation": "You offered a coffee.",
+        "audio": "83_Tu_hai_offerto_un_caffe.mp3"
+    },
+    {
+        "id": 84,
+        "prompt": "Lei {input} (scoprire) la verita.",
+        "answer": "ha scoperto",
+        "translation": "She discovered the truth.",
+        "audio": "84_Lei_ha_scoperto_la_verita.mp3"
+    },
+    {
+        "id": 85,
+        "prompt": "Noi {input} (finire) di guardare il film.",
+        "answer": "abbiamo finito",
+        "translation": "We finished watching the movie.",
+        "audio": "85_Noi_abbiamo_finito_di_guardare_il_film.mp3"
+    },
+    {
+        "id": 86,
+        "prompt": "Loro {input} (partire) ieri sera.",
+        "answer": "sono partiti",
+        "translation": "They left last night.",
+        "audio": "86_Loro_sono_partiti_ieri_sera.mp3"
+    },
+    {
+        "id": 87,
+        "prompt": "Io {input} (aprire) una bottiglia di vino.",
+        "answer": "ho aperto",
+        "translation": "I opened a bottle of wine.",
+        "audio": "87_Io_ho_aperto_una_bottiglia_di_vino.mp3"
+    },
+    {
+        "id": 88,
+        "prompt": "Tu {input} (preferire) i film d'azione.",
+        "answer": "hai preferito",
+        "translation": "You preferred action movies.",
+        "audio": "88_Tu_hai_preferito_i_film_d_azione.mp3"
+    },
+    {
+        "id": 89,
+        "prompt": "Lei {input} (offrire) un aiuto prezioso.",
+        "answer": "ha offerto",
+        "translation": "She offered valuable help.",
+        "audio": "89_Lei_ha_offerto_un_aiuto_prezioso.mp3"
+    },
+    {
+        "id": 90,
+        "prompt": "Noi {input} (scoprire) un nuovo hobby.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new hobby.",
+        "audio": "90_Noi_abbiamo_scoperto_un_nuovo_hobby.mp3"
+    },
+    {
+        "id": 91,
+        "prompt": "Loro {input} (finire) di cucinare.",
+        "answer": "hanno finito",
+        "translation": "They finished cooking.",
+        "audio": "91_Loro_hanno_finito_di_cucinare.mp3"
+    },
+    {
+        "id": 92,
+        "prompt": "Io {input} (divertirsi) al parco giochi.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the playground.",
+        "audio": "92_Io_mi_sono_divertito_al_parco_giochi.mp3"
+    },
+    {
+        "id": 93,
+        "prompt": "Tu {input} (aprire) una finestra per aria fresca.",
+        "answer": "hai aperto",
+        "translation": "You opened a window for fresh air.",
+        "audio": "93_Tu_hai_aperto_una_finestra_per_aria_fresca.mp3"
+    },
+    {
+        "id": 94,
+        "prompt": "Lei {input} (preferire) il vino bianco.",
+        "answer": "ha preferito",
+        "translation": "She preferred white wine.",
+        "audio": "94_Lei_ha_preferito_il_vino_bianco.mp3"
+    },
+    {
+        "id": 95,
+        "prompt": "Noi {input} (offrire) assistenza.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered assistance.",
+        "audio": "95_Noi_abbiamo_offerto_assistenza.mp3"
+    },
+    {
+        "id": 96,
+        "prompt": "Loro {input} (scoprire) una nuova specie.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new species.",
+        "audio": "96_Loro_hanno_scoperto_una_nuova_specie.mp3"
+    },
+    {
+        "id": 97,
+        "prompt": "Io {input} (finire) di scrivere la lettera.",
+        "answer": "ho finito",
+        "translation": "I finished writing the letter.",
+        "audio": "97_Io_ho_finito_di_scrivere_la_lettera.mp3"
+    },
+    {
+        "id": 98,
+        "prompt": "Tu {input} (partire) senza salutare.",
+        "answer": "sei partito",
+        "translation": "You left without saying goodbye.",
+        "audio": "98_Tu_sei_partito_senza_salutare.mp3"
+    },
+    {
+        "id": 99,
+        "prompt": "Lei {input} (aprire) la porta di casa.",
+        "answer": "ha aperto",
+        "translation": "She opened the front door.",
+        "audio": "99_Lei_ha_aperto_la_porta_di_casa.mp3"
+    },
+    {
+        "id": 100,
+        "prompt": "Noi {input} (preferire) la tranquillita.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred tranquility.",
+        "audio": "100_Noi_abbiamo_preferito_la_tranquillita.mp3"
+    },
+
+    {
+        "id": 101,
+        "prompt": "Loro {input} (scoprire) una nuova tecnologia.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new technology.",
+        "audio": "101_Loro_hanno_scoperto_una_nuova_tecnologia.mp3"
+    },
+    {
+        "id": 102,
+        "prompt": "Io {input} (finire) di dipingere.",
+        "answer": "ho finito",
+        "translation": "I finished painting.",
+        "audio": "102_Io_ho_finito_di_dipingere.mp3"
+    },
+    {
+        "id": 103,
+        "prompt": "Tu {input} (aprire) il regalo.",
+        "answer": "hai aperto",
+        "translation": "You opened the gift.",
+        "audio": "103_Tu_hai_aperto_il_regalo.mp3"
+    },
+    {
+        "id": 104,
+        "prompt": "Lei {input} (offrire) una soluzione.",
+        "answer": "ha offerto",
+        "translation": "She offered a solution.",
+        "audio": "104_Lei_ha_offerto_una_soluzione.mp3"
+    },
+    {
+        "id": 105,
+        "prompt": "Noi {input} (scoprire) un nuovo metodo.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new method.",
+        "audio": "105_Noi_abbiamo_scoperto_un_nuovo_metodo.mp3"
+    },
+    {
+        "id": 106,
+        "prompt": "Loro {input} (partire) in fretta.",
+        "answer": "sono partiti",
+        "translation": "They left in a hurry.",
+        "audio": "106_Loro_sono_partiti_in_fretta.mp3"
+    },
+    {
+        "id": 107,
+        "prompt": "Io {input} (finire) il mio turno.",
+        "answer": "ho finito",
+        "translation": "I finished my shift.",
+        "audio": "107_Io_ho_finito_il_mio_turno.mp3"
+    },
+    {
+        "id": 108,
+        "prompt": "Tu {input} (offrire) il tuo posto.",
+        "answer": "hai offerto",
+        "translation": "You offered your seat.",
+        "audio": "108_Tu_hai_offerto_il_tuo_posto.mp3"
+    },
+    {
+        "id": 109,
+        "prompt": "Lei {input} (divertirsi) molto alla spiaggia.",
+        "answer": "si e divertita",
+        "translation": "She had a lot of fun at the beach.",
+        "audio": "109_Lei_si_e_divertita_molto_alla_spiaggia.mp3"
+    },
+    {
+        "id": 110,
+        "prompt": "Noi {input} (aprire) un conto in banca.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a bank account.",
+        "audio": "110_Noi_abbiamo_aperto_un_conto_in_banca.mp3"
+    },
+    {
+        "id": 111,
+        "prompt": "Loro {input} (scoprire) un nuovo percorso.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new path.",
+        "audio": "111_Loro_hanno_scoperto_un_nuovo_percorso.mp3"
+    },
+    {
+        "id": 112,
+        "prompt": "Io {input} (preferire) il vino rosso.",
+        "answer": "ho preferito",
+        "translation": "I preferred red wine.",
+        "audio": "112_Io_ho_preferito_il_vino_rosso.mp3"
+    },
+    {
+        "id": 113,
+        "prompt": "Tu {input} (finire) il puzzle.",
+        "answer": "hai finito",
+        "translation": "You finished the puzzle.",
+        "audio": "113_Tu_hai_finito_il_puzzle.mp3"
+    },
+    {
+        "id": 114,
+        "prompt": "Lei {input} (partire) in ritardo.",
+        "answer": "e partita",
+        "translation": "She left late.",
+        "audio": "114_Lei_e_partita_in_ritardo.mp3"
+    },
+    {
+        "id": 115,
+        "prompt": "Noi {input} (scoprire) un talento nascosto.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a hidden talent.",
+        "audio": "115_Noi_abbiamo_scoperto_un_talento_nascosto.mp3"
+    },
+    {
+        "id": 116,
+        "prompt": "Loro {input} (finire) di parlare.",
+        "answer": "hanno finito",
+        "translation": "They finished talking.",
+        "audio": "116_Loro_hanno_finito_di_parlare.mp3"
+    },
+    {
+        "id": 117,
+        "prompt": "Io {input} (divertirsi) alla festa di compleanno.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the birthday party.",
+        "audio": "117_Io_mi_sono_divertito_alla_festa_di_compleanno.mp3"
+    },
+    {
+        "id": 118,
+        "prompt": "Tu {input} (aprire) una nuova pagina.",
+        "answer": "hai aperto",
+        "translation": "You opened a new page.",
+        "audio": "118_Tu_hai_aperto_una_nuova_pagina.mp3"
+    },
+    {
+        "id": 119,
+        "prompt": "Lei {input} (preferire) il cibo italiano.",
+        "answer": "ha preferito",
+        "translation": "She preferred Italian food.",
+        "audio": "119_Lei_ha_preferito_il_cibo_italiano.mp3"
+    },
+    {
+        "id": 120,
+        "prompt": "Noi {input} (offrire) il nostro aiuto.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered our help.",
+        "audio": "120_Noi_abbiamo_offerto_il_nostro_aiuto.mp3"
+    },
+    {
+        "id": 121,
+        "prompt": "Loro {input} (scoprire) una nuova citta.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new city.",
+        "audio": "121_Loro_hanno_scoperto_una_nuova_citta.mp3"
+    },
+    {
+        "id": 122,
+        "prompt": "Io {input} (finire) di studiare.",
+        "answer": "ho finito",
+        "translation": "I finished studying.",
+        "audio": "122_Io_ho_finito_di_studiare.mp3"
+    },
+    {
+        "id": 123,
+        "prompt": "Tu {input} (partire) per Londra.",
+        "answer": "sei partito",
+        "translation": "You left for London.",
+        "audio": "123_Tu_sei_partito_per_Londra.mp3"
+    },
+    {
+        "id": 124,
+        "prompt": "Lei {input} (aprire) un negozio di fiori.",
+        "answer": "ha aperto",
+        "translation": "She opened a flower shop.",
+        "audio": "124_Lei_ha_aperto_un_negozio_di_fiori.mp3"
+    },
+    {
+        "id": 125,
+        "prompt": "Noi {input} (preferire) rimanere in silenzio.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred to remain silent.",
+        "audio": "125_Noi_abbiamo_preferito_rimanere_in_silenzio.mp3"
+    },
+    {
+        "id": 126,
+        "prompt": "Loro {input} (offrire) un posto di lavoro.",
+        "answer": "hanno offerto",
+        "translation": "They offered a job.",
+        "audio": "126_Loro_hanno_offerto_un_posto_di_lavoro.mp3"
+    },
+    {
+        "id": 127,
+        "prompt": "Io {input} (scoprire) una passione per la musica.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a passion for music.",
+        "audio": "127_Io_ho_scoperto_una_passione_per_la_musica.mp3"
+    },
+    {
+        "id": 128,
+        "prompt": "Tu {input} (finire) di parlare.",
+        "answer": "hai finito",
+        "translation": "You finished talking.",
+        "audio": "128_Tu_hai_finito_di_parlare.mp3"
+    },
+    {
+        "id": 129,
+        "prompt": "Lei {input} (partire) per l'Italia.",
+        "answer": "e partita",
+        "translation": "She left for Italy.",
+        "audio": "129_Lei_e_partita_per_l_Italia.mp3"
+    },
+    {
+        "id": 130,
+        "prompt": "Noi {input} (aprire) una discussione.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a discussion.",
+        "audio": "130_Noi_abbiamo_aperto_una_discussione.mp3"
+    },
+    {
+        "id": 131,
+        "prompt": "Loro {input} (preferire) i dolci.",
+        "answer": "hanno preferito",
+        "translation": "They preferred sweets.",
+        "audio": "131_Loro_hanno_preferito_i_dolci.mp3"
+    },
+    {
+        "id": 132,
+        "prompt": "Io {input} (divertirsi) in vacanza.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun on vacation.",
+        "audio": "132_Io_mi_sono_divertito_in_vacanza.mp3"
+    },
+    {
+        "id": 133,
+        "prompt": "Tu {input} (offrire) il tuo tempo.",
+        "answer": "hai offerto",
+        "translation": "You offered your time.",
+        "audio": "133_Tu_hai_offerto_il_tuo_tempo.mp3"
+    },
+    {
+        "id": 134,
+        "prompt": "Lei {input} (scoprire) un segreto.",
+        "answer": "ha scoperto",
+        "translation": "She discovered a secret.",
+        "audio": "134_Lei_ha_scoperto_un_segreto.mp3"
+    },
+    {
+        "id": 135,
+        "prompt": "Noi {input} (finire) di fare i compiti.",
+        "answer": "abbiamo finito",
+        "translation": "We finished doing homework.",
+        "audio": "135_Noi_abbiamo_finito_di_fare_i_compiti.mp3"
+    },
+    {
+        "id": 136,
+        "prompt": "Loro {input} (partire) con entusiasmo.",
+        "answer": "sono partiti",
+        "translation": "They left with enthusiasm.",
+        "audio": "136_Loro_sono_partiti_con_entusiasmo.mp3"
+    },
+    {
+        "id": 137,
+        "prompt": "Io {input} (aprire) la finestra per aria fresca.",
+        "answer": "ho aperto",
+        "translation": "I opened the window for fresh air.",
+        "audio": "137_Io_ho_aperto_la_finestra_per_aria_fresca.mp3"
+    },
+    {
+        "id": 138,
+        "prompt": "Tu {input} (preferire) la montagna.",
+        "answer": "hai preferito",
+        "translation": "You preferred the mountain.",
+        "audio": "138_Tu_hai_preferito_la_montagna.mp3"
+    },
+    {
+        "id": 139,
+        "prompt": "Lei {input} (offrire) un consiglio.",
+        "answer": "ha offerto",
+        "translation": "She offered advice.",
+        "audio": "139_Lei_ha_offerto_un_consiglio.mp3"
+    },
+    {
+        "id": 140,
+        "prompt": "Noi {input} (scoprire) un nuovo ristorante.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new restaurant.",
+        "audio": "140_Noi_abbiamo_scoperto_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 141,
+        "prompt": "Loro {input} (finire) il loro lavoro.",
+        "answer": "hanno finito",
+        "translation": "They finished their work.",
+        "audio": "141_Loro_hanno_finito_il_loro_lavoro.mp3"
+    },
+    {
+        "id": 142,
+        "prompt": "Io {input} (divertirsi) alla serata.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the evening event.",
+        "audio": "142_Io_mi_sono_divertito_alla_serata.mp3"
+    },
+    {
+        "id": 143,
+        "prompt": "Tu {input} (aprire) un'azienda.",
+        "answer": "hai aperto",
+        "translation": "You opened a company.",
+        "audio": "143_Tu_hai_aperto_un_azienda.mp3"
+    },
+    {
+        "id": 144,
+        "prompt": "Lei {input} (preferire) il colore verde.",
+        "answer": "ha preferito",
+        "translation": "She preferred the color green.",
+        "audio": "144_Lei_ha_preferito_il_colore_verde.mp3"
+    },
+    {
+        "id": 145,
+        "prompt": "Noi {input} (offrire) una proposta.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a proposal.",
+        "audio": "145_Noi_abbiamo_offerto_una_proposta.mp3"
+    },
+    {
+        "id": 146,
+        "prompt": "Loro {input} (scoprire) una nuova passione.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new passion.",
+        "audio": "146_Loro_hanno_scoperto_una_nuova_passione.mp3"
+    },
+    {
+        "id": 147,
+        "prompt": "Io {input} (finire) la cena.",
+        "answer": "ho finito",
+        "translation": "I finished dinner.",
+        "audio": "147_Io_ho_finito_la_cena.mp3"
+    },
+    {
+        "id": 148,
+        "prompt": "Tu {input} (partire) per un viaggio.",
+        "answer": "sei partito",
+        "translation": "You left for a trip.",
+        "audio": "148_Tu_sei_partito_per_un_viaggio.mp3"
+    },
+    {
+        "id": 149,
+        "prompt": "Lei {input} (aprire) il suo cuore.",
+        "answer": "ha aperto",
+        "translation": "She opened her heart.",
+        "audio": "149_Lei_ha_aperto_il_suo_cuore.mp3"
+    },
+    {
+        "id": 150,
+        "prompt": "Noi {input} (preferire) il caffe.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred coffee.",
+        "audio": "150_Noi_abbiamo_preferito_il_caffe.mp3"
+    },
+
+    {
+        "id": 151,
+        "prompt": "Loro {input} (scoprire) una nuova opportunita.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new opportunity.",
+        "audio": "151_Loro_hanno_scoperto_una_nuova_opportunita.mp3"
+    },
+    {
+        "id": 152,
+        "prompt": "Io {input} (finire) il disegno.",
+        "answer": "ho finito",
+        "translation": "I finished the drawing.",
+        "audio": "152_Io_ho_finito_il_disegno.mp3"
+    },
+    {
+        "id": 153,
+        "prompt": "Tu {input} (aprire) la scatola.",
+        "answer": "hai aperto",
+        "translation": "You opened the box.",
+        "audio": "153_Tu_hai_aperto_la_scatola.mp3"
+    },
+    {
+        "id": 154,
+        "prompt": "Lei {input} (offrire) il suo aiuto.",
+        "answer": "ha offerto",
+        "translation": "She offered her help.",
+        "audio": "154_Lei_ha_offerto_il_suo_aiuto.mp3"
+    },
+    {
+        "id": 155,
+        "prompt": "Noi {input} (scoprire) una nuova strada.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new road.",
+        "audio": "155_Noi_abbiamo_scoperto_una_nuova_strada.mp3"
+    },
+    {
+        "id": 156,
+        "prompt": "Loro {input} (partire) per l'estero.",
+        "answer": "sono partiti",
+        "translation": "They left for abroad.",
+        "audio": "156_Loro_sono_partiti_per_l_estero.mp3"
+    },
+    {
+        "id": 157,
+        "prompt": "Io {input} (finire) il progetto.",
+        "answer": "ho finito",
+        "translation": "I finished the project.",
+        "audio": "157_Io_ho_finito_il_progetto.mp3"
+    },
+    {
+        "id": 158,
+        "prompt": "Tu {input} (offrire) un'opinione.",
+        "answer": "hai offerto",
+        "translation": "You offered an opinion.",
+        "audio": "158_Tu_hai_offerto_un_opinione.mp3"
+    },
+    {
+        "id": 159,
+        "prompt": "Lei {input} (divertirsi) con gli amici.",
+        "answer": "si e divertita",
+        "translation": "She had fun with friends.",
+        "audio": "159_Lei_si_e_divertita_con_gli_amici.mp3"
+    },
+    {
+        "id": 160,
+        "prompt": "Noi {input} (aprire) una nuova sede.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new office.",
+        "audio": "160_Noi_abbiamo_aperto_una_nuova_sede.mp3"
+    },
+    {
+        "id": 161,
+        "prompt": "Loro {input} (scoprire) un antico manoscritto.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered an ancient manuscript.",
+        "audio": "161_Loro_hanno_scoperto_un_antico_manoscritto.mp3"
+    },
+    {
+        "id": 162,
+        "prompt": "Io {input} (preferire) la pace.",
+        "answer": "ho preferito",
+        "translation": "I preferred peace.",
+        "audio": "162_Io_ho_preferito_la_pace.mp3"
+    },
+    {
+        "id": 163,
+        "prompt": "Tu {input} (finire) il tuo turno.",
+        "answer": "hai finito",
+        "translation": "You finished your shift.",
+        "audio": "163_Tu_hai_finito_il_tuo_turno.mp3"
+    },
+    {
+        "id": 164,
+        "prompt": "Lei {input} (partire) senza avvisare.",
+        "answer": "e partita",
+        "translation": "She left without warning.",
+        "audio": "164_Lei_e_partita_senza_avvisare.mp3"
+    },
+    {
+        "id": 165,
+        "prompt": "Noi {input} (scoprire) un errore.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a mistake.",
+        "audio": "165_Noi_abbiamo_scoperto_un_errore.mp3"
+    },
+    {
+        "id": 166,
+        "prompt": "Loro {input} (finire) il corso.",
+        "answer": "hanno finito",
+        "translation": "They finished the course.",
+        "audio": "166_Loro_hanno_finito_il_corso.mp3"
+    },
+    {
+        "id": 167,
+        "prompt": "Io {input} (divertirsi) molto in montagna.",
+        "answer": "mi sono divertito",
+        "translation": "I had a lot of fun in the mountains.",
+        "audio": "167_Io_mi_sono_divertito_molto_in_montagna.mp3"
+    },
+    {
+        "id": 168,
+        "prompt": "Tu {input} (aprire) una nuova discussione.",
+        "answer": "hai aperto",
+        "translation": "You opened a new discussion.",
+        "audio": "168_Tu_hai_aperto_una_nuova_discussione.mp3"
+    },
+    {
+        "id": 169,
+        "prompt": "Lei {input} (preferire) il libro alla TV.",
+        "answer": "ha preferito",
+        "translation": "She preferred the book to TV.",
+        "audio": "169_Lei_ha_preferito_il_libro_alla_TV.mp3"
+    },
+    {
+        "id": 170,
+        "prompt": "Noi {input} (offrire) un pasto caldo.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a hot meal.",
+        "audio": "170_Noi_abbiamo_offerto_un_pasto_caldo.mp3"
+    },
+    {
+        "id": 171,
+        "prompt": "Loro {input} (scoprire) una nuova fonte.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new source.",
+        "audio": "171_Loro_hanno_scoperto_una_nuova_fonte.mp3"
+    },
+    {
+        "id": 172,
+        "prompt": "Io {input} (finire) di lavorare.",
+        "answer": "ho finito",
+        "translation": "I finished working.",
+        "audio": "172_Io_ho_finito_di_lavorare.mp3"
+    },
+    {
+        "id": 173,
+        "prompt": "Tu {input} (partire) con i tuoi amici.",
+        "answer": "sei partito",
+        "translation": "You left with your friends.",
+        "audio": "173_Tu_sei_partito_con_i_tuoi_amici.mp3"
+    },
+    {
+        "id": 174,
+        "prompt": "Lei {input} (aprire) una nuova pagina.",
+        "answer": "ha aperto",
+        "translation": "She opened a new page.",
+        "audio": "174_Lei_ha_aperto_una_nuova_pagina.mp3"
+    },
+    {
+        "id": 175,
+        "prompt": "Noi {input} (preferire) il mare alla montagna.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred the sea to the mountains.",
+        "audio": "175_Noi_abbiamo_preferito_il_mare_alla_montagna.mp3"
+    },
+    {
+        "id": 176,
+        "prompt": "Loro {input} (offrire) una scusa.",
+        "answer": "hanno offerto",
+        "translation": "They offered an excuse.",
+        "audio": "176_Loro_hanno_offerto_una_scusa.mp3"
+    },
+    {
+        "id": 177,
+        "prompt": "Io {input} (scoprire) un talento nascosto.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a hidden talent.",
+        "audio": "177_Io_ho_scoperto_un_talento_nascosto.mp3"
+    },
+    {
+        "id": 178,
+        "prompt": "Tu {input} (finire) il lavoro in tempo.",
+        "answer": "hai finito",
+        "translation": "You finished the work on time.",
+        "audio": "178_Tu_hai_finito_il_lavoro_in_tempo.mp3"
+    },
+    {
+        "id": 179,
+        "prompt": "Lei {input} (partire) per una nuova avventura.",
+        "answer": "e partita",
+        "translation": "She left for a new adventure.",
+        "audio": "179_Lei_e_partita_per_una_nuova_avventura.mp3"
+    },
+    {
+        "id": 180,
+        "prompt": "Noi {input} (aprire) un nuovo ufficio.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new office.",
+        "audio": "180_Noi_abbiamo_aperto_un_nuovo_ufficio.mp3"
+    },
+    {
+        "id": 181,
+        "prompt": "Loro {input} (preferire) il cibo cinese.",
+        "answer": "hanno preferito",
+        "translation": "They preferred Chinese food.",
+        "audio": "181_Loro_hanno_preferito_il_cibo_cinese.mp3"
+    },
+    {
+        "id": 182,
+        "prompt": "Io {input} (divertirsi) al cinema.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the cinema.",
+        "audio": "182_Io_mi_sono_divertito_al_cinema.mp3"
+    },
+    {
+        "id": 183,
+        "prompt": "Tu {input} (offrire) un suggerimento.",
+        "answer": "hai offerto",
+        "translation": "You offered a suggestion.",
+        "audio": "183_Tu_hai_offerto_un_suggerimento.mp3"
+    },
+    {
+        "id": 184,
+        "prompt": "Lei {input} (scoprire) un libro interessante.",
+        "answer": "ha scoperto",
+        "translation": "She discovered an interesting book.",
+        "audio": "184_Lei_ha_scoperto_un_libro_interessante.mp3"
+    },
+    {
+        "id": 185,
+        "prompt": "Noi {input} (finire) di pulire.",
+        "answer": "abbiamo finito",
+        "translation": "We finished cleaning.",
+        "audio": "185_Noi_abbiamo_finito_di_pulire.mp3"
+    },
+    {
+        "id": 186,
+        "prompt": "Loro {input} (partire) ieri sera.",
+        "answer": "sono partiti",
+        "translation": "They left last night.",
+        "audio": "186_Loro_sono_partiti_ieri_sera.mp3"
+    },
+    {
+        "id": 187,
+        "prompt": "Io {input} (aprire) un nuovo blog.",
+        "answer": "ho aperto",
+        "translation": "I opened a new blog.",
+        "audio": "187_Io_ho_aperto_un_nuovo_blog.mp3"
+    },
+    {
+        "id": 188,
+        "prompt": "Tu {input} (preferire) il the al caffe.",
+        "answer": "hai preferito",
+        "translation": "You preferred tea to coffee.",
+        "audio": "188_Tu_hai_preferito_il_the_al_caffe.mp3"
+    },
+    {
+        "id": 189,
+        "prompt": "Lei {input} (offrire) una soluzione pratica.",
+        "answer": "ha offerto",
+        "translation": "She offered a practical solution.",
+        "audio": "189_Lei_ha_offerto_una_soluzione_pratica.mp3"
+    },
+    {
+        "id": 190,
+        "prompt": "Noi {input} (scoprire) un vecchio amico.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered an old friend.",
+        "audio": "190_Noi_abbiamo_scoperto_un_vecchio_amico.mp3"
+    },
+    {
+        "id": 191,
+        "prompt": "Loro {input} (finire) di prepararsi.",
+        "answer": "hanno finito",
+        "translation": "They finished getting ready.",
+        "audio": "191_Loro_hanno_finito_di_prepararsi.mp3"
+    },
+    {
+        "id": 192,
+        "prompt": "Io {input} (divertirsi) alla festa.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the party.",
+        "audio": "192_Io_mi_sono_divertito_alla_festa.mp3"
+    },
+    {
+        "id": 193,
+        "prompt": "Tu {input} (aprire) un negozio online.",
+        "answer": "hai aperto",
+        "translation": "You opened an online store.",
+        "audio": "193_Tu_hai_aperto_un_negozio_online.mp3"
+    },
+    {
+        "id": 194,
+        "prompt": "Lei {input} (preferire) il film drammatico.",
+        "answer": "ha preferito",
+        "translation": "She preferred the drama movie.",
+        "audio": "194_Lei_ha_preferito_il_film_drammatico.mp3"
+    },
+    {
+        "id": 195,
+        "prompt": "Noi {input} (offrire) un tour guidato.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a guided tour.",
+        "audio": "195_Noi_abbiamo_offerto_un_tour_guidato.mp3"
+    },
+    {
+        "id": 196,
+        "prompt": "Loro {input} (scoprire) un nuovo interesse.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new interest.",
+        "audio": "196_Loro_hanno_scoperto_un_nuovo_interesse.mp3"
+    },
+    {
+        "id": 197,
+        "prompt": "Io {input} (finire) la mia tesi.",
+        "answer": "ho finito",
+        "translation": "I finished my thesis.",
+        "audio": "197_Io_ho_finito_la_mia_tesi.mp3"
+    },
+    {
+        "id": 198,
+        "prompt": "Tu {input} (partire) con anticipo.",
+        "answer": "sei partito",
+        "translation": "You left early.",
+        "audio": "198_Tu_sei_partito_con_anticipo.mp3"
+    },
+    {
+        "id": 199,
+        "prompt": "Lei {input} (aprire) una nuova attivita.",
+        "answer": "ha aperto",
+        "translation": "She opened a new business.",
+        "audio": "199_Lei_ha_aperto_una_nuova_attivita.mp3"
+    },
+    {
+        "id": 200,
+        "prompt": "Noi {input} (preferire) i colori chiari.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred light colors.",
+        "audio": "200_Noi_abbiamo_preferito_i_colori_chiari.mp3"
+    },
+
+    {
+        "id": 201,
+        "prompt": "Loro {input} (scoprire) un nuovo pianeta.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new planet.",
+        "audio": "201_Loro_hanno_scoperto_un_nuovo_pianeta.mp3"
+    },
+    {
+        "id": 202,
+        "prompt": "Io {input} (finire) il libro ieri sera.",
+        "answer": "ho finito",
+        "translation": "I finished the book last night.",
+        "audio": "202_Io_ho_finito_il_libro_ieri_sera.mp3"
+    },
+    {
+        "id": 203,
+        "prompt": "Tu {input} (aprire) la finestra.",
+        "answer": "hai aperto",
+        "translation": "You opened the window.",
+        "audio": "203_Tu_hai_aperto_la_finestra.mp3"
+    },
+    {
+        "id": 204,
+        "prompt": "Lei {input} (offrire) un caffè.",
+        "answer": "ha offerto",
+        "translation": "She offered a coffee.",
+        "audio": "204_Lei_ha_offerto_un_caffe.mp3"
+    },
+    {
+        "id": 205,
+        "prompt": "Noi {input} (scoprire) un nuovo ristorante.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new restaurant.",
+        "audio": "205_Noi_abbiamo_scoperto_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 206,
+        "prompt": "Loro {input} (partire) per il viaggio.",
+        "answer": "sono partiti",
+        "translation": "They left for the trip.",
+        "audio": "206_Loro_sono_partiti_per_il_viaggio.mp3"
+    },
+    {
+        "id": 207,
+        "prompt": "Io {input} (finire) di mangiare.",
+        "answer": "ho finito",
+        "translation": "I finished eating.",
+        "audio": "207_Io_ho_finito_di_mangiare.mp3"
+    },
+    {
+        "id": 208,
+        "prompt": "Tu {input} (offrire) il tuo aiuto.",
+        "answer": "hai offerto",
+        "translation": "You offered your help.",
+        "audio": "208_Tu_hai_offerto_il_tuo_aiuto.mp3"
+    },
+    {
+        "id": 209,
+        "prompt": "Lei {input} (divertirsi) alla festa.",
+        "answer": "si è divertita",
+        "translation": "She had fun at the party.",
+        "audio": "209_Lei_si_e_divertita_alla_festa.mp3"
+    },
+    {
+        "id": 210,
+        "prompt": "Noi {input} (aprire) il cancello.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the gate.",
+        "audio": "210_Noi_abbiamo_aperto_il_cancello.mp3"
+    },
+    {
+        "id": 211,
+        "prompt": "Loro {input} (scoprire) un nuovo hobby.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new hobby.",
+        "audio": "211_Loro_hanno_scoperto_un_nuovo_hobby.mp3"
+    },
+    {
+        "id": 212,
+        "prompt": "Io {input} (preferire) il cioccolato fondente.",
+        "answer": "ho preferito",
+        "translation": "I preferred dark chocolate.",
+        "audio": "212_Io_ho_preferito_il_cioccolato_fondente.mp3"
+    },
+    {
+        "id": 213,
+        "prompt": "Tu {input} (finire) di studiare.",
+        "answer": "hai finito",
+        "translation": "You finished studying.",
+        "audio": "213_Tu_hai_finito_di_studiare.mp3"
+    },
+    {
+        "id": 214,
+        "prompt": "Lei {input} (partire) presto.",
+        "answer": "è partita",
+        "translation": "She left early.",
+        "audio": "214_Lei_e_partita_presto.mp3"
+    },
+    {
+        "id": 215,
+        "prompt": "Noi {input} (scoprire) una nuova passione.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new passion.",
+        "audio": "215_Noi_abbiamo_scoperto_una_nuova_passione.mp3"
+    },
+    {
+        "id": 216,
+        "prompt": "Loro {input} (finire) di lavorare tardi.",
+        "answer": "hanno finito",
+        "translation": "They finished working late.",
+        "audio": "216_Loro_hanno_finito_di_lavorare_tardi.mp3"
+    },
+    {
+        "id": 217,
+        "prompt": "Io {input} (divertirsi) al mare.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the beach.",
+        "audio": "217_Io_mi_sono_divertito_al_mare.mp3"
+    },
+    {
+        "id": 218,
+        "prompt": "Tu {input} (aprire) un negozio.",
+        "answer": "hai aperto",
+        "translation": "You opened a store.",
+        "audio": "218_Tu_hai_aperto_un_negozio.mp3"
+    },
+    {
+        "id": 219,
+        "prompt": "Lei {input} (preferire) il gelato alla torta.",
+        "answer": "ha preferito",
+        "translation": "She preferred ice cream to cake.",
+        "audio": "219_Lei_ha_preferito_il_gelato_alla_torta.mp3"
+    },
+    {
+        "id": 220,
+        "prompt": "Noi {input} (offrire) un aiuto.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered help.",
+        "audio": "220_Noi_abbiamo_offerto_un_aiuto.mp3"
+    },
+    {
+        "id": 221,
+        "prompt": "Loro {input} (scoprire) una nuova specie.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new species.",
+        "audio": "221_Loro_hanno_scoperto_una_nuova_specie.mp3"
+    },
+    {
+        "id": 222,
+        "prompt": "Io {input} (finire) di leggere il giornale.",
+        "answer": "ho finito",
+        "translation": "I finished reading the newspaper.",
+        "audio": "222_Io_ho_finito_di_leggere_il_giornale.mp3"
+    },
+    {
+        "id": 223,
+        "prompt": "Tu {input} (partire) per Parigi.",
+        "answer": "sei partito",
+        "translation": "You left for Paris.",
+        "audio": "223_Tu_sei_partito_per_Parigi.mp3"
+    },
+    {
+        "id": 224,
+        "prompt": "Lei {input} (aprire) un libro nuovo.",
+        "answer": "ha aperto",
+        "translation": "She opened a new book.",
+        "audio": "224_Lei_ha_aperto_un_libro_nuovo.mp3"
+    },
+    {
+        "id": 225,
+        "prompt": "Noi {input} (preferire) la pizza alla pasta.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred pizza to pasta.",
+        "audio": "225_Noi_abbiamo_preferito_la_pizza_alla_pasta.mp3"
+    },
+    {
+        "id": 226,
+        "prompt": "Loro {input} (offrire) una bevanda.",
+        "answer": "hanno offerto",
+        "translation": "They offered a drink.",
+        "audio": "226_Loro_hanno_offerto_una_bevanda.mp3"
+    },
+    {
+        "id": 227,
+        "prompt": "Io {input} (scoprire) un ristorante eccellente.",
+        "answer": "ho scoperto",
+        "translation": "I discovered an excellent restaurant.",
+        "audio": "227_Io_ho_scoperto_un_ristorante_eccellente.mp3"
+    },
+    {
+        "id": 228,
+        "prompt": "Tu {input} (finire) la relazione.",
+        "answer": "hai finito",
+        "translation": "You finished the report.",
+        "audio": "228_Tu_hai_finito_la_relazione.mp3"
+    },
+    {
+        "id": 229,
+        "prompt": "Lei {input} (partire) per una nuova avventura.",
+        "answer": "è partita",
+        "translation": "She left for a new adventure.",
+        "audio": "229_Lei_e_partita_per_una_nuova_avventura.mp3"
+    },
+    {
+        "id": 230,
+        "prompt": "Noi {input} (aprire) un nuovo capitolo.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new chapter.",
+        "audio": "230_Noi_abbiamo_aperto_un_nuovo_capitolo.mp3"
+    },
+    {
+        "id": 231,
+        "prompt": "Loro {input} (preferire) il cibo giapponese.",
+        "answer": "hanno preferito",
+        "translation": "They preferred Japanese food.",
+        "audio": "231_Loro_hanno_preferito_il_cibo_giapponese.mp3"
+    },
+    {
+        "id": 232,
+        "prompt": "Io {input} (divertirsi) a casa.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at home.",
+        "audio": "232_Io_mi_sono_divertito_a_casa.mp3"
+    },
+    {
+        "id": 233,
+        "prompt": "Tu {input} (offrire) un regalo.",
+        "answer": "hai offerto",
+        "translation": "You offered a gift.",
+        "audio": "233_Tu_hai_offerto_un_regalo.mp3"
+    },
+    {
+        "id": 234,
+        "prompt": "Lei {input} (scoprire) una nuova passione.",
+        "answer": "ha scoperto",
+        "translation": "She discovered a new passion.",
+        "audio": "234_Lei_ha_scoperto_una_nuova_passione.mp3"
+    },
+    {
+        "id": 235,
+        "prompt": "Noi {input} (finire) di lavorare presto.",
+        "answer": "abbiamo finito",
+        "translation": "We finished working early.",
+        "audio": "235_Noi_abbiamo_finito_di_lavorare_presto.mp3"
+    },
+    {
+        "id": 236,
+        "prompt": "Loro {input} (partire) per la montagna.",
+        "answer": "sono partiti",
+        "translation": "They left for the mountains.",
+        "audio": "236_Loro_sono_partiti_per_la_montagna.mp3"
+    },
+    {
+        "id": 237,
+        "prompt": "Io {input} (aprire) una nuova impresa.",
+        "answer": "ho aperto",
+        "translation": "I opened a new business.",
+        "audio": "237_Io_ho_aperto_una_nuova_impresa.mp3"
+    },
+    {
+        "id": 238,
+        "prompt": "Tu {input} (preferire) la musica classica.",
+        "answer": "hai preferito",
+        "translation": "You preferred classical music.",
+        "audio": "238_Tu_hai_preferito_la_musica_classica.mp3"
+    },
+    {
+        "id": 239,
+        "prompt": "Lei {input} (offrire) un lavoro.",
+        "answer": "ha offerto",
+        "translation": "She offered a job.",
+        "audio": "239_Lei_ha_offerto_un_lavoro.mp3"
+    },
+    {
+        "id": 240,
+        "prompt": "Noi {input} (scoprire) un nuovo percorso.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new path.",
+        "audio": "240_Noi_abbiamo_scoperto_un_nuovo_percorso.mp3"
+    },
+    {
+        "id": 241,
+        "prompt": "Loro {input} (finire) il compito.",
+        "answer": "hanno finito",
+        "translation": "They finished the assignment.",
+        "audio": "241_Loro_hanno_finito_il_compito.mp3"
+    },
+    {
+        "id": 242,
+        "prompt": "Io {input} (divertirsi) al concerto.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the concert.",
+        "audio": "242_Io_mi_sono_divertito_al_concerto.mp3"
+    },
+    {
+        "id": 243,
+        "prompt": "Tu {input} (aprire) una finestra.",
+        "answer": "hai aperto",
+        "translation": "You opened a window.",
+        "audio": "243_Tu_hai_aperto_una_finestra.mp3"
+    },
+    {
+        "id": 244,
+        "prompt": "Lei {input} (preferire) il tè verde.",
+        "answer": "ha preferito",
+        "translation": "She preferred green tea.",
+        "audio": "244_Lei_ha_preferito_il_te_verde.mp3"
+    },
+    {
+        "id": 245,
+        "prompt": "Noi {input} (offrire) un servizio.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a service.",
+        "audio": "245_Noi_abbiamo_offerto_un_servizio.mp3"
+    },
+    {
+        "id": 246,
+        "prompt": "Loro {input} (scoprire) una nuova cura.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new cure.",
+        "audio": "246_Loro_hanno_scoperto_una_nuova_cura.mp3"
+    },
+    {
+        "id": 247,
+        "prompt": "Io {input} (finire) di leggere.",
+        "answer": "ho finito",
+        "translation": "I finished reading.",
+        "audio": "247_Io_ho_finito_di_leggere.mp3"
+    },
+    {
+        "id": 248,
+        "prompt": "Tu {input} (partire) senza dire niente.",
+        "answer": "sei partito",
+        "translation": "You left without saying anything.",
+        "audio": "248_Tu_sei_partito_senza_dire_niente.mp3"
+    },
+    {
+        "id": 249,
+        "prompt": "Lei {input} (aprire) una nuova opportunità.",
+        "answer": "ha aperto",
+        "translation": "She opened a new opportunity.",
+        "audio": "249_Lei_ha_aperto_una_nuova_opportunita.mp3"
+    },
+    {
+        "id": 250,
+        "prompt": "Noi {input} (preferire) il silenzio.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred silence.",
+        "audio": "250_Noi_abbiamo_preferito_il_silenzio.mp3"
+    },
+
+    {
+        "id": 251,
+        "prompt": "Loro {input} (scoprire) un nuovo sistema.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new system.",
+        "audio": "251_Loro_hanno_scoperto_un_nuovo_sistema.mp3"
+    },
+    {
+        "id": 252,
+        "prompt": "Io {input} (finire) il compito ieri sera.",
+        "answer": "ho finito",
+        "translation": "I finished the assignment last night.",
+        "audio": "252_Io_ho_finito_il_compito_ieri_sera.mp3"
+    },
+    {
+        "id": 253,
+        "prompt": "Tu {input} (aprire) la porta.",
+        "answer": "hai aperto",
+        "translation": "You opened the door.",
+        "audio": "253_Tu_hai_aperto_la_porta.mp3"
+    },
+    {
+        "id": 254,
+        "prompt": "Lei {input} (offrire) un tè.",
+        "answer": "ha offerto",
+        "translation": "She offered a tea.",
+        "audio": "254_Lei_ha_offerto_un_te.mp3"
+    },
+    {
+        "id": 255,
+        "prompt": "Noi {input} (scoprire) un nuovo parco.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new park.",
+        "audio": "255_Noi_abbiamo_scoperto_un_nuovo_parco.mp3"
+    },
+    {
+        "id": 256,
+        "prompt": "Loro {input} (partire) per la vacanza.",
+        "answer": "sono partiti",
+        "translation": "They left for the vacation.",
+        "audio": "256_Loro_sono_partiti_per_la_vacanza.mp3"
+    },
+    {
+        "id": 257,
+        "prompt": "Io {input} (finire) di bere.",
+        "answer": "ho finito",
+        "translation": "I finished drinking.",
+        "audio": "257_Io_ho_finito_di_bere.mp3"
+    },
+    {
+        "id": 258,
+        "prompt": "Tu {input} (offrire) il tuo posto.",
+        "answer": "hai offerto",
+        "translation": "You offered your seat.",
+        "audio": "258_Tu_hai_offerto_il_tuo_posto.mp3"
+    },
+    {
+        "id": 259,
+        "prompt": "Lei {input} (divertirsi) in discoteca.",
+        "answer": "si è divertita",
+        "translation": "She had fun at the disco.",
+        "audio": "259_Lei_si_e_divertita_in_discoteca.mp3"
+    },
+    {
+        "id": 260,
+        "prompt": "Noi {input} (aprire) la cassaforte.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the safe.",
+        "audio": "260_Noi_abbiamo_aperto_la_cassaforte.mp3"
+    },
+    {
+        "id": 261,
+        "prompt": "Loro {input} (scoprire) un nuovo libro.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new book.",
+        "audio": "261_Loro_hanno_scoperto_un_nuovo_libro.mp3"
+    },
+    {
+        "id": 262,
+        "prompt": "Io {input} (preferire) il tè nero.",
+        "answer": "ho preferito",
+        "translation": "I preferred black tea.",
+        "audio": "262_Io_ho_preferito_il_te_nero.mp3"
+    },
+    {
+        "id": 263,
+        "prompt": "Tu {input} (finire) di guardare la TV.",
+        "answer": "hai finito",
+        "translation": "You finished watching TV.",
+        "audio": "263_Tu_hai_finito_di_guardare_la_TV.mp3"
+    },
+    {
+        "id": 264,
+        "prompt": "Lei {input} (partire) per lavoro.",
+        "answer": "è partita",
+        "translation": "She left for work.",
+        "audio": "264_Lei_e_partita_per_lavoro.mp3"
+    },
+    {
+        "id": 265,
+        "prompt": "Noi {input} (scoprire) una nuova tecnica.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new technique.",
+        "audio": "265_Noi_abbiamo_scoperto_una_nuova_tecnica.mp3"
+    },
+    {
+        "id": 266,
+        "prompt": "Loro {input} (finire) di cucinare.",
+        "answer": "hanno finito",
+        "translation": "They finished cooking.",
+        "audio": "266_Loro_hanno_finito_di_cucinare.mp3"
+    },
+    {
+        "id": 267,
+        "prompt": "Io {input} (divertirsi) in palestra.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the gym.",
+        "audio": "267_Io_mi_sono_divertito_in_palestra.mp3"
+    },
+    {
+        "id": 268,
+        "prompt": "Tu {input} (aprire) una finestra nuova.",
+        "answer": "hai aperto",
+        "translation": "You opened a new window.",
+        "audio": "268_Tu_hai_aperto_una_finestra_nuova.mp3"
+    },
+    {
+        "id": 269,
+        "prompt": "Lei {input} (preferire) il tè alla camomilla.",
+        "answer": "ha preferito",
+        "translation": "She preferred chamomile tea.",
+        "audio": "269_Lei_ha_preferito_il_te_alla_camomilla.mp3"
+    },
+    {
+        "id": 270,
+        "prompt": "Noi {input} (offrire) il nostro aiuto.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered our help.",
+        "audio": "270_Noi_abbiamo_offerto_il_nostro_aiuto.mp3"
+    },
+    {
+        "id": 271,
+        "prompt": "Loro {input} (scoprire) una nuova isola.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new island.",
+        "audio": "271_Loro_hanno_scoperto_una_nuova_isola.mp3"
+    },
+    {
+        "id": 272,
+        "prompt": "Io {input} (finire) di fare i compiti.",
+        "answer": "ho finito",
+        "translation": "I finished doing homework.",
+        "audio": "272_Io_ho_finito_di_fare_i_compiti.mp3"
+    },
+    {
+        "id": 273,
+        "prompt": "Tu {input} (partire) per la Germania.",
+        "answer": "sei partito",
+        "translation": "You left for Germany.",
+        "audio": "273_Tu_sei_partito_per_la_Germania.mp3"
+    },
+    {
+        "id": 274,
+        "prompt": "Lei {input} (aprire) una nuova attività.",
+        "answer": "ha aperto",
+        "translation": "She opened a new business.",
+        "audio": "274_Lei_ha_aperto_una_nuova_attivita.mp3"
+    },
+    {
+        "id": 275,
+        "prompt": "Noi {input} (preferire) il gelato al cioccolato.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred chocolate ice cream.",
+        "audio": "275_Noi_abbiamo_preferito_il_gelato_al_cioccolato.mp3"
+    },
+    {
+        "id": 276,
+        "prompt": "Loro {input} (offrire) un passaggio.",
+        "answer": "hanno offerto",
+        "translation": "They offered a ride.",
+        "audio": "276_Loro_hanno_offerto_un_passaggio.mp3"
+    },
+    {
+        "id": 277,
+        "prompt": "Io {input} (scoprire) un nuovo talento.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a new talent.",
+        "audio": "277_Io_ho_scoperto_un_nuovo_talento.mp3"
+    },
+    {
+        "id": 278,
+        "prompt": "Tu {input} (finire) il disegno.",
+        "answer": "hai finito",
+        "translation": "You finished the drawing.",
+        "audio": "278_Tu_hai_finito_il_disegno.mp3"
+    },
+    {
+        "id": 279,
+        "prompt": "Lei {input} (partire) per Roma.",
+        "answer": "è partita",
+        "translation": "She left for Rome.",
+        "audio": "279_Lei_e_partita_per_Roma.mp3"
+    },
+    {
+        "id": 280,
+        "prompt": "Noi {input} (aprire) una nuova sede.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new branch.",
+        "audio": "280_Noi_abbiamo_aperto_una_nuova_sede.mp3"
+    },
+    {
+        "id": 281,
+        "prompt": "Loro {input} (preferire) il colore blu.",
+        "answer": "hanno preferito",
+        "translation": "They preferred the color blue.",
+        "audio": "281_Loro_hanno_preferito_il_colore_blu.mp3"
+    },
+    {
+        "id": 282,
+        "prompt": "Io {input} (divertirsi) in vacanza.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun on vacation.",
+        "audio": "282_Io_mi_sono_divertito_in_vacanza.mp3"
+    },
+    {
+        "id": 283,
+        "prompt": "Tu {input} (offrire) una soluzione.",
+        "answer": "hai offerto",
+        "translation": "You offered a solution.",
+        "audio": "283_Tu_hai_offerto_una_soluzione.mp3"
+    },
+    {
+        "id": 284,
+        "prompt": "Lei {input} (scoprire) un'opportunità.",
+        "answer": "ha scoperto",
+        "translation": "She discovered an opportunity.",
+        "audio": "284_Lei_ha_scoperto_un_opportunita.mp3"
+    },
+    {
+        "id": 285,
+        "prompt": "Noi {input} (finire) di mangiare.",
+        "answer": "abbiamo finito",
+        "translation": "We finished eating.",
+        "audio": "285_Noi_abbiamo_finito_di_mangiare.mp3"
+    },
+    {
+        "id": 286,
+        "prompt": "Loro {input} (partire) per le vacanze.",
+        "answer": "sono partiti",
+        "translation": "They left for vacation.",
+        "audio": "286_Loro_sono_partiti_per_le_vacanze.mp3"
+    },
+    {
+        "id": 287,
+        "prompt": "Io {input} (aprire) un nuovo conto.",
+        "answer": "ho aperto",
+        "translation": "I opened a new account.",
+        "audio": "287_Io_ho_aperto_un_nuovo_conto.mp3"
+    },
+    {
+        "id": 288,
+        "prompt": "Tu {input} (preferire) il pesce alla carne.",
+        "answer": "hai preferito",
+        "translation": "You preferred fish to meat.",
+        "audio": "288_Tu_hai_preferito_il_pesce_alla_carne.mp3"
+    },
+    {
+        "id": 289,
+        "prompt": "Lei {input} (offrire) un lavoro.",
+        "answer": "ha offerto",
+        "translation": "She offered a job.",
+        "audio": "289_Lei_ha_offerto_un_lavoro.mp3"
+    },
+    {
+        "id": 290,
+        "prompt": "Noi {input} (scoprire) una nuova ricetta.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new recipe.",
+        "audio": "290_Noi_abbiamo_scoperto_una_nuova_ricetta.mp3"
+    },
+    {
+        "id": 291,
+        "prompt": "Loro {input} (finire) di leggere il libro.",
+        "answer": "hanno finito",
+        "translation": "They finished reading the book.",
+        "audio": "291_Loro_hanno_finito_di_leggere_il_libro.mp3"
+    },
+    {
+        "id": 292,
+        "prompt": "Io {input} (divertirsi) a scuola.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at school.",
+        "audio": "292_Io_mi_sono_divertito_a_scuola.mp3"
+    },
+    {
+        "id": 293,
+        "prompt": "Tu {input} (aprire) una nuova porta.",
+        "answer": "hai aperto",
+        "translation": "You opened a new door.",
+        "audio": "293_Tu_hai_aperto_una_nuova_porta.mp3"
+    },
+    {
+        "id": 294,
+        "prompt": "Lei {input} (preferire) la moda italiana.",
+        "answer": "ha preferito",
+        "translation": "She preferred Italian fashion.",
+        "audio": "294_Lei_ha_preferito_la_moda_italiana.mp3"
+    },
+    {
+        "id": 295,
+        "prompt": "Noi {input} (offrire) una consulenza.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a consultation.",
+        "audio": "295_Noi_abbiamo_offerto_una_consulenza.mp3"
+    },
+    {
+        "id": 296,
+        "prompt": "Loro {input} (scoprire) una nuova attività.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new activity.",
+        "audio": "296_Loro_hanno_scoperto_una_nuova_attivita.mp3"
+    },
+    {
+        "id": 297,
+        "prompt": "Io {input} (finire) il film.",
+        "answer": "ho finito",
+        "translation": "I finished the movie.",
+        "audio": "297_Io_ho_finito_il_film.mp3"
+    },
+    {
+        "id": 298,
+        "prompt": "Tu {input} (partire) per un'avventura.",
+        "answer": "sei partito",
+        "translation": "You left for an adventure.",
+        "audio": "298_Tu_sei_partito_per_un_avventura.mp3"
+    },
+    {
+        "id": 299,
+        "prompt": "Lei {input} (aprire) una nuova strada.",
+        "answer": "ha aperto",
+        "translation": "She opened a new path.",
+        "audio": "299_Lei_ha_aperto_una_nuova_strada.mp3"
+    },
+    {
+        "id": 300,
+        "prompt": "Noi {input} (preferire) l'arte moderna.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred modern art.",
+        "audio": "300_Noi_abbiamo_preferito_l_arte_moderna.mp3"
+    },
+
+    {
+        "id": 301,
+        "prompt": "Loro {input} (scoprire) un segreto.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a secret.",
+        "audio": "301_Loro_hanno_scoperto_un_segreto.mp3"
+    },
+    {
+        "id": 302,
+        "prompt": "Io {input} (finire) il mio lavoro.",
+        "answer": "ho finito",
+        "translation": "I finished my work.",
+        "audio": "302_Io_ho_finito_il_mio_lavoro.mp3"
+    },
+    {
+        "id": 303,
+        "prompt": "Tu {input} (aprire) il pacco.",
+        "answer": "hai aperto",
+        "translation": "You opened the package.",
+        "audio": "303_Tu_hai_aperto_il_pacco.mp3"
+    },
+    {
+        "id": 304,
+        "prompt": "Lei {input} (offrire) una soluzione semplice.",
+        "answer": "ha offerto",
+        "translation": "She offered a simple solution.",
+        "audio": "304_Lei_ha_offerto_una_soluzione_semplice.mp3"
+    },
+    {
+        "id": 305,
+        "prompt": "Noi {input} (scoprire) un'opportunita di lavoro.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a job opportunity.",
+        "audio": "305_Noi_abbiamo_scoperto_un_opportunita_di_lavoro.mp3"
+    },
+    {
+        "id": 306,
+        "prompt": "Loro {input} (partire) per il weekend.",
+        "answer": "sono partiti",
+        "translation": "They left for the weekend.",
+        "audio": "306_Loro_sono_partiti_per_il_weekend.mp3"
+    },
+    {
+        "id": 307,
+        "prompt": "Io {input} (finire) il pranzo.",
+        "answer": "ho finito",
+        "translation": "I finished lunch.",
+        "audio": "307_Io_ho_finito_il_pranzo.mp3"
+    },
+    {
+        "id": 308,
+        "prompt": "Tu {input} (offrire) una mano.",
+        "answer": "hai offerto",
+        "translation": "You offered a hand.",
+        "audio": "308_Tu_hai_offerto_una_mano.mp3"
+    },
+    {
+        "id": 309,
+        "prompt": "Lei {input} (divertirsi) con i bambini.",
+        "answer": "si è divertita",
+        "translation": "She had fun with the children.",
+        "audio": "309_Lei_si_e_divertita_con_i_bambini.mp3"
+    },
+    {
+        "id": 310,
+        "prompt": "Noi {input} (aprire) il garage.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the garage.",
+        "audio": "310_Noi_abbiamo_aperto_il_garage.mp3"
+    },
+    {
+        "id": 311,
+        "prompt": "Loro {input} (scoprire) un nuovo negozio.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new shop.",
+        "audio": "311_Loro_hanno_scoperto_un_nuovo_negozio.mp3"
+    },
+    {
+        "id": 312,
+        "prompt": "Io {input} (preferire) il caffè macchiato.",
+        "answer": "ho preferito",
+        "translation": "I preferred macchiato coffee.",
+        "audio": "312_Io_ho_preferito_il_caffe_macchiato.mp3"
+    },
+    {
+        "id": 313,
+        "prompt": "Tu {input} (finire) il compito in classe.",
+        "answer": "hai finito",
+        "translation": "You finished the class assignment.",
+        "audio": "313_Tu_hai_finito_il_compito_in_classe.mp3"
+    },
+    {
+        "id": 314,
+        "prompt": "Lei {input} (partire) per la città.",
+        "answer": "è partita",
+        "translation": "She left for the city.",
+        "audio": "314_Lei_e_partita_per_la_citta.mp3"
+    },
+    {
+        "id": 315,
+        "prompt": "Noi {input} (scoprire) una nuova passione.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new passion.",
+        "audio": "315_Noi_abbiamo_scoperto_una_nuova_passione.mp3"
+    },
+    {
+        "id": 316,
+        "prompt": "Loro {input} (finire) di pulire la casa.",
+        "answer": "hanno finito",
+        "translation": "They finished cleaning the house.",
+        "audio": "316_Loro_hanno_finito_di_pulire_la_casa.mp3"
+    },
+    {
+        "id": 317,
+        "prompt": "Io {input} (divertirsi) a giocare a calcio.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun playing soccer.",
+        "audio": "317_Io_mi_sono_divertito_a_giocare_a_calcio.mp3"
+    },
+    {
+        "id": 318,
+        "prompt": "Tu {input} (aprire) una nuova finestra.",
+        "answer": "hai aperto",
+        "translation": "You opened a new window.",
+        "audio": "318_Tu_hai_aperto_una_nuova_finestra.mp3"
+    },
+    {
+        "id": 319,
+        "prompt": "Lei {input} (preferire) il tè verde.",
+        "answer": "ha preferito",
+        "translation": "She preferred green tea.",
+        "audio": "319_Lei_ha_preferito_il_te_verde.mp3"
+    },
+    {
+        "id": 320,
+        "prompt": "Noi {input} (offrire) una consulenza gratuita.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a free consultation.",
+        "audio": "320_Noi_abbiamo_offerto_una_consulenza_gratuita.mp3"
+    },
+    {
+        "id": 321,
+        "prompt": "Loro {input} (scoprire) una nuova cultura.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new culture.",
+        "audio": "321_Loro_hanno_scoperto_una_nuova_cultura.mp3"
+    },
+    {
+        "id": 322,
+        "prompt": "Io {input} (finire) di lavorare.",
+        "answer": "ho finito",
+        "translation": "I finished working.",
+        "audio": "322_Io_ho_finito_di_lavorare.mp3"
+    },
+    {
+        "id": 323,
+        "prompt": "Tu {input} (partire) senza avvisare.",
+        "answer": "sei partito",
+        "translation": "You left without warning.",
+        "audio": "323_Tu_sei_partito_senza_avvisare.mp3"
+    },
+    {
+        "id": 324,
+        "prompt": "Lei {input} (aprire) il cancello.",
+        "answer": "ha aperto",
+        "translation": "She opened the gate.",
+        "audio": "324_Lei_ha_aperto_il_cancello.mp3"
+    },
+    {
+        "id": 325,
+        "prompt": "Noi {input} (preferire) il vino bianco.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred white wine.",
+        "audio": "325_Noi_abbiamo_preferito_il_vino_bianco.mp3"
+    },
+    {
+        "id": 326,
+        "prompt": "Loro {input} (offrire) un rimborso.",
+        "answer": "hanno offerto",
+        "translation": "They offered a refund.",
+        "audio": "326_Loro_hanno_offerto_un_rimborso.mp3"
+    },
+    {
+        "id": 327,
+        "prompt": "Io {input} (scoprire) un nuovo ristorante.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a new restaurant.",
+        "audio": "327_Io_ho_scoperto_un_nuovo_ristorante.mp3"
+    },
+    {
+        "id": 328,
+        "prompt": "Tu {input} (finire) il libro.",
+        "answer": "hai finito",
+        "translation": "You finished the book.",
+        "audio": "328_Tu_hai_finito_il_libro.mp3"
+    },
+    {
+        "id": 329,
+        "prompt": "Lei {input} (partire) per la vacanza.",
+        "answer": "è partita",
+        "translation": "She left for vacation.",
+        "audio": "329_Lei_e_partita_per_la_vacanza.mp3"
+    },
+    {
+        "id": 330,
+        "prompt": "Noi {input} (aprire) un nuovo locale.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new place.",
+        "audio": "330_Noi_abbiamo_aperto_un_nuovo_locale.mp3"
+    },
+    {
+        "id": 331,
+        "prompt": "Loro {input} (preferire) il cioccolato fondente.",
+        "answer": "hanno preferito",
+        "translation": "They preferred dark chocolate.",
+        "audio": "331_Loro_hanno_preferito_il_cioccolato_fondente.mp3"
+    },
+    {
+        "id": 332,
+        "prompt": "Io {input} (divertirsi) al parco.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the park.",
+        "audio": "332_Io_mi_sono_divertito_al_parco.mp3"
+    },
+    {
+        "id": 333,
+        "prompt": "Tu {input} (offrire) una tazza di tè.",
+        "answer": "hai offerto",
+        "translation": "You offered a cup of tea.",
+        "audio": "333_Tu_hai_offerto_una_tazza_di_te.mp3"
+    },
+    {
+        "id": 334,
+        "prompt": "Lei {input} (scoprire) una nuova passione.",
+        "answer": "ha scoperto",
+        "translation": "She discovered a new passion.",
+        "audio": "334_Lei_ha_scoperto_una_nuova_passione.mp3"
+    },
+    {
+        "id": 335,
+        "prompt": "Noi {input} (finire) il progetto.",
+        "answer": "abbiamo finito",
+        "translation": "We finished the project.",
+        "audio": "335_Noi_abbiamo_finito_il_progetto.mp3"
+    },
+    {
+        "id": 336,
+        "prompt": "Loro {input} (partire) per il viaggio.",
+        "answer": "sono partiti",
+        "translation": "They left for the trip.",
+        "audio": "336_Loro_sono_partiti_per_il_viaggio.mp3"
+    },
+    {
+        "id": 337,
+        "prompt": "Io {input} (aprire) il frigo.",
+        "answer": "ho aperto",
+        "translation": "I opened the fridge.",
+        "audio": "337_Io_ho_aperto_il_frigo.mp3"
+    },
+    {
+        "id": 338,
+        "prompt": "Tu {input} (preferire) il tè freddo.",
+        "answer": "hai preferito",
+        "translation": "You preferred iced tea.",
+        "audio": "338_Tu_hai_preferito_il_te_freddo.mp3"
+    },
+    {
+        "id": 339,
+        "prompt": "Lei {input} (offrire) un'opportunità.",
+        "answer": "ha offerto",
+        "translation": "She offered an opportunity.",
+        "audio": "339_Lei_ha_offerto_un_opportunita.mp3"
+    },
+    {
+        "id": 340,
+        "prompt": "Noi {input} (scoprire) una nuova meta.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new destination.",
+        "audio": "340_Noi_abbiamo_scoperto_una_nuova_meta.mp3"
+    },
+    {
+        "id": 341,
+        "prompt": "Loro {input} (finire) di pranzare.",
+        "answer": "hanno finito",
+        "translation": "They finished having lunch.",
+        "audio": "341_Loro_hanno_finito_di_pranzare.mp3"
+    },
+    {
+        "id": 342,
+        "prompt": "Io {input} (divertirsi) a fare escursioni.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun hiking.",
+        "audio": "342_Io_mi_sono_divertito_a_fare_escursioni.mp3"
+    },
+    {
+        "id": 343,
+        "prompt": "Tu {input} (aprire) la macchina.",
+        "answer": "hai aperto",
+        "translation": "You opened the car.",
+        "audio": "343_Tu_hai_aperto_la_macchina.mp3"
+    },
+    {
+        "id": 344,
+        "prompt": "Lei {input} (preferire) il caffè lungo.",
+        "answer": "ha preferito",
+        "translation": "She preferred long coffee.",
+        "audio": "344_Lei_ha_preferito_il_caffe_lungo.mp3"
+    },
+    {
+        "id": 345,
+        "prompt": "Noi {input} (offrire) un aiuto immediato.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered immediate help.",
+        "audio": "345_Noi_abbiamo_offerto_un_aiuto_immediato.mp3"
+    },
+    {
+        "id": 346,
+        "prompt": "Loro {input} (scoprire) un nuovo mondo.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new world.",
+        "audio": "346_Loro_hanno_scoperto_un_nuovo_mondo.mp3"
+    },
+    {
+        "id": 347,
+        "prompt": "Io {input} (finire) la maratona.",
+        "answer": "ho finito",
+        "translation": "I finished the marathon.",
+        "audio": "347_Io_ho_finito_la_maratona.mp3"
+    },
+    {
+        "id": 348,
+        "prompt": "Tu {input} (partire) per una nuova avventura.",
+        "answer": "sei partito",
+        "translation": "You left for a new adventure.",
+        "audio": "348_Tu_sei_partito_per_una_nuova_avventura.mp3"
+    },
+    {
+        "id": 349,
+        "prompt": "Lei {input} (aprire) un libro interessante.",
+        "answer": "ha aperto",
+        "translation": "She opened an interesting book.",
+        "audio": "349_Lei_ha_aperto_un_libro_interessante.mp3"
+    },
+    {
+        "id": 350,
+        "prompt": "Noi {input} (preferire) il pesce alla carne.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred fish to meat.",
+        "audio": "350_Noi_abbiamo_preferito_il_pesce_alla_carne.mp3"
+    },
+
+    {
+        "id": 351,
+        "prompt": "Loro {input} (scoprire) un nuovo segreto.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new secret.",
+        "audio": "351_Loro_hanno_scoperto_un_nuovo_segreto.mp3"
+    },
+    {
+        "id": 352,
+        "prompt": "Io {input} (finire) il mio compito.",
+        "answer": "ho finito",
+        "translation": "I finished my homework.",
+        "audio": "352_Io_ho_finito_il_mio_compito.mp3"
+    },
+    {
+        "id": 353,
+        "prompt": "Tu {input} (aprire) una nuova attività.",
+        "answer": "hai aperto",
+        "translation": "You opened a new business.",
+        "audio": "353_Tu_hai_aperto_una_nuova_attivita.mp3"
+    },
+    {
+        "id": 354,
+        "prompt": "Lei {input} (offrire) un aiuto.",
+        "answer": "ha offerto",
+        "translation": "She offered help.",
+        "audio": "354_Lei_ha_offerto_un_aiuto.mp3"
+    },
+    {
+        "id": 355,
+        "prompt": "Noi {input} (scoprire) un nuovo metodo.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new method.",
+        "audio": "355_Noi_abbiamo_scoperto_un_nuovo_metodo.mp3"
+    },
+    {
+        "id": 356,
+        "prompt": "Loro {input} (partire) per la gita.",
+        "answer": "sono partiti",
+        "translation": "They left for the trip.",
+        "audio": "356_Loro_sono_partiti_per_la_gita.mp3"
+    },
+    {
+        "id": 357,
+        "prompt": "Io {input} (finire) il pranzo.",
+        "answer": "ho finito",
+        "translation": "I finished lunch.",
+        "audio": "357_Io_ho_finito_il_pranzo.mp3"
+    },
+    {
+        "id": 358,
+        "prompt": "Tu {input} (offrire) un consiglio.",
+        "answer": "hai offerto",
+        "translation": "You offered advice.",
+        "audio": "358_Tu_hai_offerto_un_consiglio.mp3"
+    },
+    {
+        "id": 359,
+        "prompt": "Lei {input} (divertirsi) alla festa.",
+        "answer": "si è divertita",
+        "translation": "She had fun at the party.",
+        "audio": "359_Lei_si_e_divertita_alla_festa.mp3"
+    },
+    {
+        "id": 360,
+        "prompt": "Noi {input} (aprire) il libro.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened the book.",
+        "audio": "360_Noi_abbiamo_aperto_il_libro.mp3"
+    },
+    {
+        "id": 361,
+        "prompt": "Loro {input} (scoprire) un nuovo continente.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new continent.",
+        "audio": "361_Loro_hanno_scoperto_un_nuovo_continente.mp3"
+    },
+    {
+        "id": 362,
+        "prompt": "Io {input} (preferire) il caffè latte.",
+        "answer": "ho preferito",
+        "translation": "I preferred coffee with milk.",
+        "audio": "362_Io_ho_preferito_il_caffe_latte.mp3"
+    },
+    {
+        "id": 363,
+        "prompt": "Tu {input} (finire) il compito di matematica.",
+        "answer": "hai finito",
+        "translation": "You finished the math assignment.",
+        "audio": "363_Tu_hai_finito_il_compito_di_matematica.mp3"
+    },
+    {
+        "id": 364,
+        "prompt": "Lei {input} (partire) per la campagna.",
+        "answer": "è partita",
+        "translation": "She left for the countryside.",
+        "audio": "364_Lei_e_partita_per_la_campagna.mp3"
+    },
+    {
+        "id": 365,
+        "prompt": "Noi {input} (scoprire) un nuovo gioco.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new game.",
+        "audio": "365_Noi_abbiamo_scoperto_un_nuovo_gioco.mp3"
+    },
+    {
+        "id": 366,
+        "prompt": "Loro {input} (finire) di fare sport.",
+        "answer": "hanno finito",
+        "translation": "They finished playing sports.",
+        "audio": "366_Loro_hanno_finito_di_fare_sport.mp3"
+    },
+    {
+        "id": 367,
+        "prompt": "Io {input} (divertirsi) al cinema.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the cinema.",
+        "audio": "367_Io_mi_sono_divertito_al_cinema.mp3"
+    },
+    {
+        "id": 368,
+        "prompt": "Tu {input} (aprire) una nuova attività commerciale.",
+        "answer": "hai aperto",
+        "translation": "You opened a new business.",
+        "audio": "368_Tu_hai_aperto_una_nuova_attivita_commerciale.mp3"
+    },
+    {
+        "id": 369,
+        "prompt": "Lei {input} (preferire) il tè verde al tè nero.",
+        "answer": "ha preferito",
+        "translation": "She preferred green tea to black tea.",
+        "audio": "369_Lei_ha_preferito_il_te_verde_al_te_nero.mp3"
+    },
+    {
+        "id": 370,
+        "prompt": "Noi {input} (offrire) un servizio di qualità.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a quality service.",
+        "audio": "370_Noi_abbiamo_offerto_un_servizio_di_qualita.mp3"
+    },
+    {
+        "id": 371,
+        "prompt": "Loro {input} (scoprire) un nuovo autore.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new author.",
+        "audio": "371_Loro_hanno_scoperto_un_nuovo_autore.mp3"
+    },
+    {
+        "id": 372,
+        "prompt": "Io {input} (finire) di lavorare tardi.",
+        "answer": "ho finito",
+        "translation": "I finished working late.",
+        "audio": "372_Io_ho_finito_di_lavorare_tardi.mp3"
+    },
+    {
+        "id": 373,
+        "prompt": "Tu {input} (partire) per un lungo viaggio.",
+        "answer": "sei partito",
+        "translation": "You left for a long trip.",
+        "audio": "373_Tu_sei_partito_per_un_lungo_viaggio.mp3"
+    },
+    {
+        "id": 374,
+        "prompt": "Lei {input} (aprire) il portone principale.",
+        "answer": "ha aperto",
+        "translation": "She opened the main door.",
+        "audio": "374_Lei_ha_aperto_il_portone_principale.mp3"
+    },
+    {
+        "id": 375,
+        "prompt": "Noi {input} (preferire) il vino rosso al bianco.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred red wine to white.",
+        "audio": "375_Noi_abbiamo_preferito_il_vino_rosso_al_bianco.mp3"
+    },
+    {
+        "id": 376,
+        "prompt": "Loro {input} (offrire) il loro aiuto.",
+        "answer": "hanno offerto",
+        "translation": "They offered their help.",
+        "audio": "376_Loro_hanno_offerto_il_loro_aiuto.mp3"
+    },
+    {
+        "id": 377,
+        "prompt": "Io {input} (scoprire) un talento nascosto.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a hidden talent.",
+        "audio": "377_Io_ho_scoperto_un_talento_nascosto.mp3"
+    },
+    {
+        "id": 378,
+        "prompt": "Tu {input} (finire) di fare i compiti.",
+        "answer": "hai finito",
+        "translation": "You finished doing homework.",
+        "audio": "378_Tu_hai_finito_di_fare_i_compiti.mp3"
+    },
+    {
+        "id": 379,
+        "prompt": "Lei {input} (partire) senza dire addio.",
+        "answer": "è partita",
+        "translation": "She left without saying goodbye.",
+        "audio": "379_Lei_e_partita_senza_dire_addio.mp3"
+    },
+    {
+        "id": 380,
+        "prompt": "Noi {input} (aprire) una nuova strada.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new path.",
+        "audio": "380_Noi_abbiamo_aperto_una_nuova_strada.mp3"
+    },
+    {
+        "id": 381,
+        "prompt": "Loro {input} (preferire) il sole alla pioggia.",
+        "answer": "hanno preferito",
+        "translation": "They preferred the sun to the rain.",
+        "audio": "381_Loro_hanno_preferito_il_sole_alla_pioggia.mp3"
+    },
+    {
+        "id": 382,
+        "prompt": "Io {input} (divertirsi) a nuotare.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun swimming.",
+        "audio": "382_Io_mi_sono_divertito_a_nuotare.mp3"
+    },
+    {
+        "id": 383,
+        "prompt": "Tu {input} (offrire) una bevanda fresca.",
+        "answer": "hai offerto",
+        "translation": "You offered a cold drink.",
+        "audio": "383_Tu_hai_offerto_una_bevanda_fresca.mp3"
+    },
+    {
+        "id": 384,
+        "prompt": "Lei {input} (scoprire) un nuovo corso online.",
+        "answer": "ha scoperto",
+        "translation": "She discovered a new online course.",
+        "audio": "384_Lei_ha_scoperto_un_nuovo_corso_online.mp3"
+    },
+    {
+        "id": 385,
+        "prompt": "Noi {input} (finire) di cenare.",
+        "answer": "abbiamo finito",
+        "translation": "We finished having dinner.",
+        "audio": "385_Noi_abbiamo_finito_di_cenare.mp3"
+    },
+    {
+        "id": 386,
+        "prompt": "Loro {input} (partire) per una crociera.",
+        "answer": "sono partiti",
+        "translation": "They left for a cruise.",
+        "audio": "386_Loro_sono_partiti_per_una_crociera.mp3"
+    },
+    {
+        "id": 387,
+        "prompt": "Io {input} (aprire) una scatola di cioccolatini.",
+        "answer": "ho aperto",
+        "translation": "I opened a box of chocolates.",
+        "audio": "387_Io_ho_aperto_una_scatola_di_cioccolatini.mp3"
+    },
+    {
+        "id": 388,
+        "prompt": "Tu {input} (preferire) la pasta al riso.",
+        "answer": "hai preferito",
+        "translation": "You preferred pasta to rice.",
+        "audio": "388_Tu_hai_preferito_la_pasta_al_riso.mp3"
+    },
+    {
+        "id": 389,
+        "prompt": "Lei {input} (offrire) un aiuto prezioso.",
+        "answer": "ha offerto",
+        "translation": "She offered valuable help.",
+        "audio": "389_Lei_ha_offerto_un_aiuto_prezioso.mp3"
+    },
+    {
+        "id": 390,
+        "prompt": "Noi {input} (scoprire) una nuova serie TV.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new TV series.",
+        "audio": "390_Noi_abbiamo_scoperto_una_nuova_serie_TV.mp3"
+    },
+    {
+        "id": 391,
+        "prompt": "Loro {input} (finire) di fare la spesa.",
+        "answer": "hanno finito",
+        "translation": "They finished grocery shopping.",
+        "audio": "391_Loro_hanno_finito_di_fare_la_spesa.mp3"
+    },
+    {
+        "id": 392,
+        "prompt": "Io {input} (divertirsi) a leggere un libro.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun reading a book.",
+        "audio": "392_Io_mi_sono_divertito_a_leggere_un_libro.mp3"
+    },
+    {
+        "id": 393,
+        "prompt": "Tu {input} (aprire) la finestra per aria fresca.",
+        "answer": "hai aperto",
+        "translation": "You opened the window for fresh air.",
+        "audio": "393_Tu_hai_aperto_la_finestra_per_aria_fresca.mp3"
+    },
+    {
+        "id": 394,
+        "prompt": "Lei {input} (preferire) il vino bianco.",
+        "answer": "ha preferito",
+        "translation": "She preferred white wine.",
+        "audio": "394_Lei_ha_preferito_il_vino_bianco.mp3"
+    },
+    {
+        "id": 395,
+        "prompt": "Noi {input} (offrire) una cena.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a dinner.",
+        "audio": "395_Noi_abbiamo_offerto_una_cena.mp3"
+    },
+    {
+        "id": 396,
+        "prompt": "Loro {input} (scoprire) un'opera d'arte.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a work of art.",
+        "audio": "396_Loro_hanno_scoperto_un_opera_d_arte.mp3"
+    },
+    {
+        "id": 397,
+        "prompt": "Io {input} (finire) il progetto in anticipo.",
+        "answer": "ho finito",
+        "translation": "I finished the project ahead of time.",
+        "audio": "397_Io_ho_finito_il_progetto_in_anticipo.mp3"
+    },
+    {
+        "id": 398,
+        "prompt": "Tu {input} (partire) per un'avventura in montagna.",
+        "answer": "sei partito",
+        "translation": "You left for an adventure in the mountains.",
+        "audio": "398_Tu_sei_partito_per_un_avventura_in_montagna.mp3"
+    },
+    {
+        "id": 399,
+        "prompt": "Lei {input} (aprire) un negozio di fiori.",
+        "answer": "ha aperto",
+        "translation": "She opened a flower shop.",
+        "audio": "399_Lei_ha_aperto_un_negozio_di_fiori.mp3"
+    },
+    {
+        "id": 400,
+        "prompt": "Noi {input} (preferire) il gelato alla torta.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred ice cream to cake.",
+        "audio": "400_Noi_abbiamo_preferito_il_gelato_alla_torta.mp3"
+    },
+
+    {
+        "id": 401,
+        "prompt": "Loro {input} (scoprire) un nuovo sentiero.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new path.",
+        "audio": "401_Loro_hanno_scoperto_un_nuovo_sentiero.mp3"
+    },
+    {
+        "id": 402,
+        "prompt": "Io {input} (finire) il mio libro preferito.",
+        "answer": "ho finito",
+        "translation": "I finished my favorite book.",
+        "audio": "402_Io_ho_finito_il_mio_libro_preferito.mp3"
+    },
+    {
+        "id": 403,
+        "prompt": "Tu {input} (aprire) un conto bancario.",
+        "answer": "hai aperto",
+        "translation": "You opened a bank account.",
+        "audio": "403_Tu_hai_aperto_un_conto_bancario.mp3"
+    },
+    {
+        "id": 404,
+        "prompt": "Lei {input} (offrire) un dolce.",
+        "answer": "ha offerto",
+        "translation": "She offered a dessert.",
+        "audio": "404_Lei_ha_offerto_un_dolce.mp3"
+    },
+    {
+        "id": 405,
+        "prompt": "Noi {input} (scoprire) una nuova canzone.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new song.",
+        "audio": "405_Noi_abbiamo_scoperto_una_nuova_canzone.mp3"
+    },
+    {
+        "id": 406,
+        "prompt": "Loro {input} (partire) per il campeggio.",
+        "answer": "sono partiti",
+        "translation": "They left for camping.",
+        "audio": "406_Loro_sono_partiti_per_il_campeggio.mp3"
+    },
+    {
+        "id": 407,
+        "prompt": "Io {input} (finire) di cucinare.",
+        "answer": "ho finito",
+        "translation": "I finished cooking.",
+        "audio": "407_Io_ho_finito_di_cucinare.mp3"
+    },
+    {
+        "id": 408,
+        "prompt": "Tu {input} (offrire) un posto a sedere.",
+        "answer": "hai offerto",
+        "translation": "You offered a seat.",
+        "audio": "408_Tu_hai_offerto_un_posto_a_sedere.mp3"
+    },
+    {
+        "id": 409,
+        "prompt": "Lei {input} (divertirsi) in spiaggia.",
+        "answer": "si è divertita",
+        "translation": "She had fun at the beach.",
+        "audio": "409_Lei_si_e_divertita_in_spiaggia.mp3"
+    },
+    {
+        "id": 410,
+        "prompt": "Noi {input} (aprire) una nuova impresa.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new business.",
+        "audio": "410_Noi_abbiamo_aperto_una_nuova_impresa.mp3"
+    },
+    {
+        "id": 411,
+        "prompt": "Loro {input} (scoprire) un nuovo artista.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new artist.",
+        "audio": "411_Loro_hanno_scoperto_un_nuovo_artista.mp3"
+    },
+    {
+        "id": 412,
+        "prompt": "Io {input} (preferire) il gelato al cioccolato.",
+        "answer": "ho preferito",
+        "translation": "I preferred chocolate ice cream.",
+        "audio": "412_Io_ho_preferito_il_gelato_al_cioccolato.mp3"
+    },
+    {
+        "id": 413,
+        "prompt": "Tu {input} (finire) la tua tesi.",
+        "answer": "hai finito",
+        "translation": "You finished your thesis.",
+        "audio": "413_Tu_hai_finito_la_tua_tesi.mp3"
+    },
+    {
+        "id": 414,
+        "prompt": "Lei {input} (partire) per l'università.",
+        "answer": "è partita",
+        "translation": "She left for the university.",
+        "audio": "414_Lei_e_partita_per_l_universita.mp3"
+    },
+    {
+        "id": 415,
+        "prompt": "Noi {input} (scoprire) un segreto nascosto.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a hidden secret.",
+        "audio": "415_Noi_abbiamo_scoperto_un_segreto_nascosto.mp3"
+    },
+    {
+        "id": 416,
+        "prompt": "Loro {input} (finire) di parlare.",
+        "answer": "hanno finito",
+        "translation": "They finished talking.",
+        "audio": "416_Loro_hanno_finito_di_parlare.mp3"
+    },
+    {
+        "id": 417,
+        "prompt": "Io {input} (divertirsi) con i giochi da tavolo.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun with board games.",
+        "audio": "417_Io_mi_sono_divertito_con_i_giochi_da_tavolo.mp3"
+    },
+    {
+        "id": 418,
+        "prompt": "Tu {input} (aprire) un ristorante.",
+        "answer": "hai aperto",
+        "translation": "You opened a restaurant.",
+        "audio": "418_Tu_hai_aperto_un_ristorante.mp3"
+    },
+    {
+        "id": 419,
+        "prompt": "Lei {input} (preferire) il teatro al cinema.",
+        "answer": "ha preferito",
+        "translation": "She preferred the theater to the cinema.",
+        "audio": "419_Lei_ha_preferito_il_teatro_al_cinema.mp3"
+    },
+    {
+        "id": 420,
+        "prompt": "Noi {input} (offrire) un caffè.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a coffee.",
+        "audio": "420_Noi_abbiamo_offerto_un_caffe.mp3"
+    },
+    {
+        "id": 421,
+        "prompt": "Loro {input} (scoprire) un nuovo autore.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new author.",
+        "audio": "421_Loro_hanno_scoperto_un_nuovo_autore.mp3"
+    },
+    {
+        "id": 422,
+        "prompt": "Io {input} (finire) di decorare la stanza.",
+        "answer": "ho finito",
+        "translation": "I finished decorating the room.",
+        "audio": "422_Io_ho_finito_di_decorare_la_stanza.mp3"
+    },
+    {
+        "id": 423,
+        "prompt": "Tu {input} (partire) per un lungo viaggio.",
+        "answer": "sei partito",
+        "translation": "You left for a long journey.",
+        "audio": "423_Tu_sei_partito_per_un_lungo_viaggio.mp3"
+    },
+    {
+        "id": 424,
+        "prompt": "Lei {input} (aprire) un nuovo progetto.",
+        "answer": "ha aperto",
+        "translation": "She opened a new project.",
+        "audio": "424_Lei_ha_aperto_un_nuovo_progetto.mp3"
+    },
+    {
+        "id": 425,
+        "prompt": "Noi {input} (preferire) le vacanze estive.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred summer holidays.",
+        "audio": "425_Noi_abbiamo_preferito_le_vacanze_estive.mp3"
+    },
+    {
+        "id": 426,
+        "prompt": "Loro {input} (offrire) il loro sostegno.",
+        "answer": "hanno offerto",
+        "translation": "They offered their support.",
+        "audio": "426_Loro_hanno_offerto_il_loro_sostegno.mp3"
+    },
+    {
+        "id": 427,
+        "prompt": "Io {input} (scoprire) una nuova applicazione.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a new app.",
+        "audio": "427_Io_ho_scoperto_una_nuova_applicazione.mp3"
+    },
+    {
+        "id": 428,
+        "prompt": "Tu {input} (finire) il tuo turno.",
+        "answer": "hai finito",
+        "translation": "You finished your shift.",
+        "audio": "428_Tu_hai_finito_il_tuo_turno.mp3"
+    },
+    {
+        "id": 429,
+        "prompt": "Lei {input} (partire) senza preavviso.",
+        "answer": "è partita",
+        "translation": "She left without notice.",
+        "audio": "429_Lei_e_partita_senza_preavviso.mp3"
+    },
+    {
+        "id": 430,
+        "prompt": "Noi {input} (aprire) una nuova finestra.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new window.",
+        "audio": "430_Noi_abbiamo_aperto_una_nuova_finestra.mp3"
+    },
+    {
+        "id": 431,
+        "prompt": "Loro {input} (preferire) i dolci fatti in casa.",
+        "answer": "hanno preferito",
+        "translation": "They preferred homemade sweets.",
+        "audio": "431_Loro_hanno_preferito_i_dolci_fatti_in_casa.mp3"
+    },
+    {
+        "id": 432,
+        "prompt": "Io {input} (divertirsi) al luna park.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the amusement park.",
+        "audio": "432_Io_mi_sono_divertito_al_luna_park.mp3"
+    },
+    {
+        "id": 433,
+        "prompt": "Tu {input} (offrire) una soluzione veloce.",
+        "answer": "hai offerto",
+        "translation": "You offered a quick solution.",
+        "audio": "433_Tu_hai_offerto_una_soluzione_veloce.mp3"
+    },
+    {
+        "id": 434,
+        "prompt": "Lei {input} (scoprire) una nuova ricetta.",
+        "answer": "ha scoperto",
+        "translation": "She discovered a new recipe.",
+        "audio": "434_Lei_ha_scoperto_una_nuova_ricetta.mp3"
+    },
+    {
+        "id": 435,
+        "prompt": "Noi {input} (finire) di guardare il film.",
+        "answer": "abbiamo finito",
+        "translation": "We finished watching the movie.",
+        "audio": "435_Noi_abbiamo_finito_di_guardare_il_film.mp3"
+    },
+    {
+        "id": 436,
+        "prompt": "Loro {input} (partire) per le vacanze.",
+        "answer": "sono partiti",
+        "translation": "They left for vacation.",
+        "audio": "436_Loro_sono_partiti_per_le_vacanze.mp3"
+    },
+    {
+        "id": 437,
+        "prompt": "Io {input} (aprire) un pacco regalo.",
+        "answer": "ho aperto",
+        "translation": "I opened a gift box.",
+        "audio": "437_Io_ho_aperto_un_pacco_regalo.mp3"
+    },
+    {
+        "id": 438,
+        "prompt": "Tu {input} (preferire) il gelato alla frutta.",
+        "answer": "hai preferito",
+        "translation": "You preferred fruit ice cream.",
+        "audio": "438_Tu_hai_preferito_il_gelato_alla_frutta.mp3"
+    },
+    {
+        "id": 439,
+        "prompt": "Lei {input} (offrire) un passaggio.",
+        "answer": "ha offerto",
+        "translation": "She offered a ride.",
+        "audio": "439_Lei_ha_offerto_un_passaggio.mp3"
+    },
+    {
+        "id": 440,
+        "prompt": "Noi {input} (scoprire) una nuova band.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new band.",
+        "audio": "440_Noi_abbiamo_scoperto_una_nuova_band.mp3"
+    },
+    {
+        "id": 441,
+        "prompt": "Loro {input} (finire) di fare jogging.",
+        "answer": "hanno finito",
+        "translation": "They finished jogging.",
+        "audio": "441_Loro_hanno_finito_di_fare_jogging.mp3"
+    },
+    {
+        "id": 442,
+        "prompt": "Io {input} (divertirsi) al concerto.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the concert.",
+        "audio": "442_Io_mi_sono_divertito_al_concerto.mp3"
+    },
+    {
+        "id": 443,
+        "prompt": "Tu {input} (aprire) una nuova porta.",
+        "answer": "hai aperto",
+        "translation": "You opened a new door.",
+        "audio": "443_Tu_hai_aperto_una_nuova_porta.mp3"
+    },
+    {
+        "id": 444,
+        "prompt": "Lei {input} (preferire) il caffè al tè.",
+        "answer": "ha preferito",
+        "translation": "She preferred coffee to tea.",
+        "audio": "444_Lei_ha_preferito_il_caffe_al_te.mp3"
+    },
+    {
+        "id": 445,
+        "prompt": "Noi {input} (offrire) una nuova opportunità.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a new opportunity.",
+        "audio": "445_Noi_abbiamo_offerto_una_nuova_opportunita.mp3"
+    },
+    {
+        "id": 446,
+        "prompt": "Loro {input} (scoprire) un antico castello.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered an ancient castle.",
+        "audio": "446_Loro_hanno_scoperto_un_antico_castello.mp3"
+    },
+    {
+        "id": 447,
+        "prompt": "Io {input} (finire) di leggere il giornale.",
+        "answer": "ho finito",
+        "translation": "I finished reading the newspaper.",
+        "audio": "447_Io_ho_finito_di_leggere_il_giornale.mp3"
+    },
+    {
+        "id": 448,
+        "prompt": "Tu {input} (partire) con entusiasmo.",
+        "answer": "sei partito",
+        "translation": "You left with enthusiasm.",
+        "audio": "448_Tu_sei_partito_con_entusiasmo.mp3"
+    },
+    {
+        "id": 449,
+        "prompt": "Lei {input} (aprire) un negozio di abbigliamento.",
+        "answer": "ha aperto",
+        "translation": "She opened a clothing store.",
+        "audio": "449_Lei_ha_aperto_un_negozio_di_abbigliamento.mp3"
+    },
+    {
+        "id": 450,
+        "prompt": "Noi {input} (preferire) il pesce alla carne.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred fish to meat.",
+        "audio": "450_Noi_abbiamo_preferito_il_pesce_alla_carne.mp3"
+    },
+
+    {
+        "id": 451,
+        "prompt": "Loro {input} (scoprire) una nuova tecnologia.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new technology.",
+        "audio": "451_Loro_hanno_scoperto_una_nuova_tecnologia.mp3"
+    },
+    {
+        "id": 452,
+        "prompt": "Io {input} (finire) di lavorare presto.",
+        "answer": "ho finito",
+        "translation": "I finished working early.",
+        "audio": "452_Io_ho_finito_di_lavorare_presto.mp3"
+    },
+    {
+        "id": 453,
+        "prompt": "Tu {input} (aprire) una nuova opportunità.",
+        "answer": "hai aperto",
+        "translation": "You opened a new opportunity.",
+        "audio": "453_Tu_hai_aperto_una_nuova_opportunita.mp3"
+    },
+    {
+        "id": 454,
+        "prompt": "Lei {input} (offrire) una soluzione.",
+        "answer": "ha offerto",
+        "translation": "She offered a solution.",
+        "audio": "454_Lei_ha_offerto_una_soluzione.mp3"
+    },
+    {
+        "id": 455,
+        "prompt": "Noi {input} (scoprire) un nuovo sport.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new sport.",
+        "audio": "455_Noi_abbiamo_scoperto_un_nuovo_sport.mp3"
+    },
+    {
+        "id": 456,
+        "prompt": "Loro {input} (partire) con il treno.",
+        "answer": "sono partiti",
+        "translation": "They left by train.",
+        "audio": "456_Loro_sono_partiti_con_il_treno.mp3"
+    },
+    {
+        "id": 457,
+        "prompt": "Io {input} (finire) di leggere il libro.",
+        "answer": "ho finito",
+        "translation": "I finished reading the book.",
+        "audio": "457_Io_ho_finito_di_leggere_il_libro.mp3"
+    },
+    {
+        "id": 458,
+        "prompt": "Tu {input} (offrire) una risposta.",
+        "answer": "hai offerto",
+        "translation": "You offered an answer.",
+        "audio": "458_Tu_hai_offerto_una_risposta.mp3"
+    },
+    {
+        "id": 459,
+        "prompt": "Lei {input} (divertirsi) al parco divertimenti.",
+        "answer": "si è divertita",
+        "translation": "She had fun at the amusement park.",
+        "audio": "459_Lei_si_e_divertita_al_parco_divertimenti.mp3"
+    },
+    {
+        "id": 460,
+        "prompt": "Noi {input} (aprire) una nuova sede.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new office.",
+        "audio": "460_Noi_abbiamo_aperto_una_nuova_sede.mp3"
+    },
+    {
+        "id": 461,
+        "prompt": "Loro {input} (scoprire) una nuova tendenza.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new trend.",
+        "audio": "461_Loro_hanno_scoperto_una_nuova_tendenza.mp3"
+    },
+    {
+        "id": 462,
+        "prompt": "Io {input} (preferire) il tè al caffè.",
+        "answer": "ho preferito",
+        "translation": "I preferred tea to coffee.",
+        "audio": "462_Io_ho_preferito_il_te_al_caffe.mp3"
+    },
+    {
+        "id": 463,
+        "prompt": "Tu {input} (finire) il lavoro in tempo.",
+        "answer": "hai finito",
+        "translation": "You finished the work on time.",
+        "audio": "463_Tu_hai_finito_il_lavoro_in_tempo.mp3"
+    },
+    {
+        "id": 464,
+        "prompt": "Lei {input} (partire) per l'estero.",
+        "answer": "è partita",
+        "translation": "She left for abroad.",
+        "audio": "464_Lei_e_partita_per_l_estero.mp3"
+    },
+    {
+        "id": 465,
+        "prompt": "Noi {input} (scoprire) un nuovo percorso.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered a new path.",
+        "audio": "465_Noi_abbiamo_scoperto_un_nuovo_percorso.mp3"
+    },
+    {
+        "id": 466,
+        "prompt": "Loro {input} (finire) di lavorare tardi.",
+        "answer": "hanno finito",
+        "translation": "They finished working late.",
+        "audio": "466_Loro_hanno_finito_di_lavorare_tardi.mp3"
+    },
+    {
+        "id": 467,
+        "prompt": "Io {input} (divertirsi) alla festa di compleanno.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the birthday party.",
+        "audio": "467_Io_mi_sono_divertito_alla_festa_di_compleanno.mp3"
+    },
+    {
+        "id": 468,
+        "prompt": "Tu {input} (aprire) una nuova discussione.",
+        "answer": "hai aperto",
+        "translation": "You opened a new discussion.",
+        "audio": "468_Tu_hai_aperto_una_nuova_discussione.mp3"
+    },
+    {
+        "id": 469,
+        "prompt": "Lei {input} (preferire) il libro alla TV.",
+        "answer": "ha preferito",
+        "translation": "She preferred the book to TV.",
+        "audio": "469_Lei_ha_preferito_il_libro_alla_TV.mp3"
+    },
+    {
+        "id": 470,
+        "prompt": "Noi {input} (offrire) un pasto caldo.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a hot meal.",
+        "audio": "470_Noi_abbiamo_offerto_un_pasto_caldo.mp3"
+    },
+    {
+        "id": 471,
+        "prompt": "Loro {input} (scoprire) una nuova fonte.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new source.",
+        "audio": "471_Loro_hanno_scoperto_una_nuova_fonte.mp3"
+    },
+    {
+        "id": 472,
+        "prompt": "Io {input} (finire) di lavorare.",
+        "answer": "ho finito",
+        "translation": "I finished working.",
+        "audio": "472_Io_ho_finito_di_lavorare.mp3"
+    },
+    {
+        "id": 473,
+        "prompt": "Tu {input} (partire) con i tuoi amici.",
+        "answer": "sei partito",
+        "translation": "You left with your friends.",
+        "audio": "473_Tu_sei_partito_con_i_tuoi_amici.mp3"
+    },
+    {
+        "id": 474,
+        "prompt": "Lei {input} (aprire) una nuova pagina.",
+        "answer": "ha aperto",
+        "translation": "She opened a new page.",
+        "audio": "474_Lei_ha_aperto_una_nuova_pagina.mp3"
+    },
+    {
+        "id": 475,
+        "prompt": "Noi {input} (preferire) il mare alla montagna.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred the sea to the mountains.",
+        "audio": "475_Noi_abbiamo_preferito_il_mare_alla_montagna.mp3"
+    },
+    {
+        "id": 476,
+        "prompt": "Loro {input} (offrire) una scusa.",
+        "answer": "hanno offerto",
+        "translation": "They offered an excuse.",
+        "audio": "476_Loro_hanno_offerto_una_scusa.mp3"
+    },
+    {
+        "id": 477,
+        "prompt": "Io {input} (scoprire) un talento nascosto.",
+        "answer": "ho scoperto",
+        "translation": "I discovered a hidden talent.",
+        "audio": "477_Io_ho_scoperto_un_talento_nascosto.mp3"
+    },
+    {
+        "id": 478,
+        "prompt": "Tu {input} (finire) il lavoro in tempo.",
+        "answer": "hai finito",
+        "translation": "You finished the work on time.",
+        "audio": "478_Tu_hai_finito_il_lavoro_in_tempo.mp3"
+    },
+    {
+        "id": 479,
+        "prompt": "Lei {input} (partire) per una nuova avventura.",
+        "answer": "è partita",
+        "translation": "She left for a new adventure.",
+        "audio": "479_Lei_e_partita_per_una_nuova_avventura.mp3"
+    },
+    {
+        "id": 480,
+        "prompt": "Noi {input} (aprire) un nuovo ufficio.",
+        "answer": "abbiamo aperto",
+        "translation": "We opened a new office.",
+        "audio": "480_Noi_abbiamo_aperto_un_nuovo_ufficio.mp3"
+    },
+    {
+        "id": 481,
+        "prompt": "Loro {input} (preferire) il cibo cinese.",
+        "answer": "hanno preferito",
+        "translation": "They preferred Chinese food.",
+        "audio": "481_Loro_hanno_preferito_il_cibo_cinese.mp3"
+    },
+    {
+        "id": 482,
+        "prompt": "Io {input} (divertirsi) al cinema.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the cinema.",
+        "audio": "482_Io_mi_sono_divertito_al_cinema.mp3"
+    },
+    {
+        "id": 483,
+        "prompt": "Tu {input} (offrire) un suggerimento.",
+        "answer": "hai offerto",
+        "translation": "You offered a suggestion.",
+        "audio": "483_Tu_hai_offerto_un_suggerimento.mp3"
+    },
+    {
+        "id": 484,
+        "prompt": "Lei {input} (scoprire) un libro interessante.",
+        "answer": "ha scoperto",
+        "translation": "She discovered an interesting book.",
+        "audio": "484_Lei_ha_scoperto_un_libro_interessante.mp3"
+    },
+    {
+        "id": 485,
+        "prompt": "Noi {input} (finire) di pulire.",
+        "answer": "abbiamo finito",
+        "translation": "We finished cleaning.",
+        "audio": "485_Noi_abbiamo_finito_di_pulire.mp3"
+    },
+    {
+        "id": 486,
+        "prompt": "Loro {input} (partire) ieri sera.",
+        "answer": "sono partiti",
+        "translation": "They left last night.",
+        "audio": "486_Loro_sono_partiti_ieri_sera.mp3"
+    },
+    {
+        "id": 487,
+        "prompt": "Io {input} (aprire) un nuovo blog.",
+        "answer": "ho aperto",
+        "translation": "I opened a new blog.",
+        "audio": "487_Io_ho_aperto_un_nuovo_blog.mp3"
+    },
+    {
+        "id": 488,
+        "prompt": "Tu {input} (preferire) il tè al caffè.",
+        "answer": "hai preferito",
+        "translation": "You preferred tea to coffee.",
+        "audio": "488_Tu_hai_preferito_il_te_al_caffe.mp3"
+    },
+    {
+        "id": 489,
+        "prompt": "Lei {input} (offrire) una soluzione pratica.",
+        "answer": "ha offerto",
+        "translation": "She offered a practical solution.",
+        "audio": "489_Lei_ha_offerto_una_soluzione_pratica.mp3"
+    },
+    {
+        "id": 490,
+        "prompt": "Noi {input} (scoprire) un vecchio amico.",
+        "answer": "abbiamo scoperto",
+        "translation": "We discovered an old friend.",
+        "audio": "490_Noi_abbiamo_scoperto_un_vecchio_amico.mp3"
+    },
+    {
+        "id": 491,
+        "prompt": "Loro {input} (finire) di prepararsi.",
+        "answer": "hanno finito",
+        "translation": "They finished getting ready.",
+        "audio": "491_Loro_hanno_finito_di_prepararsi.mp3"
+    },
+    {
+        "id": 492,
+        "prompt": "Io {input} (divertirsi) alla serata.",
+        "answer": "mi sono divertito",
+        "translation": "I had fun at the evening event.",
+        "audio": "492_Io_mi_sono_divertito_alla_serata.mp3"
+    },
+    {
+        "id": 493,
+        "prompt": "Tu {input} (aprire) un'azienda.",
+        "answer": "hai aperto",
+        "translation": "You opened a company.",
+        "audio": "493_Tu_hai_aperto_un_azienda.mp3"
+    },
+    {
+        "id": 494,
+        "prompt": "Lei {input} (preferire) il colore verde.",
+        "answer": "ha preferito",
+        "translation": "She preferred the color green.",
+        "audio": "494_Lei_ha_preferito_il_colore_verde.mp3"
+    },
+    {
+        "id": 495,
+        "prompt": "Noi {input} (offrire) una proposta.",
+        "answer": "abbiamo offerto",
+        "translation": "We offered a proposal.",
+        "audio": "495_Noi_abbiamo_offerto_una_proposta.mp3"
+    },
+    {
+        "id": 496,
+        "prompt": "Loro {input} (scoprire) una nuova passione.",
+        "answer": "hanno scoperto",
+        "translation": "They discovered a new passion.",
+        "audio": "496_Loro_hanno_scoperto_una_nuova_passione.mp3"
+    },
+    {
+        "id": 497,
+        "prompt": "Io {input} (finire) la cena.",
+        "answer": "ho finito",
+        "translation": "I finished dinner.",
+        "audio": "497_Io_ho_finito_la_cena.mp3"
+    },
+    {
+        "id": 498,
+        "prompt": "Tu {input} (partire) per un viaggio.",
+        "answer": "sei partito",
+        "translation": "You left for a trip.",
+        "audio": "498_Tu_sei_partito_per_un_viaggio.mp3"
+    },
+    {
+        "id": 499,
+        "prompt": "Lei {input} (aprire) il suo cuore.",
+        "answer": "ha aperto",
+        "translation": "She opened her heart.",
+        "audio": "499_Lei_ha_aperto_il_suo_cuore.mp3"
+    },
+    {
+        "id": 500,
+        "prompt": "Noi {input} (preferire) il caffè.",
+        "answer": "abbiamo preferito",
+        "translation": "We preferred coffee.",
+        "audio": "500_Noi_abbiamo_preferito_il_caffe.mp3"
+    }
+]
